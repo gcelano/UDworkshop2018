@@ -1,0 +1,153 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Arabic-NYUAD" xquery="03_p-values.xq">
+  <case n="1">
+    <verb_lemma>_</verb_lemma>
+    <aspect-values p-value="6.038357e-44" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="28635">
+        <verb_form total="16449" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="8136" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="1172" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="969" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="611" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="426" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=1|Voice=Act</verb_form>
+        <verb_form total="254" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="241" value="_">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="154" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Pass</verb_form>
+        <verb_form total="63" value="_">Gender=Fem|Mood=Ind|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="42" value="_">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Pass</verb_form>
+        <verb_form total="34" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="23" value="_">Gender=Fem|Mood=Ind|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="17" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=2|Voice=Act</verb_form>
+        <verb_form total="9" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3</verb_form>
+        <verb_form total="8" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="8" value="_">Gender=Fem|Mood=Ind|Number=Dual|Person=3|Voice=Pass</verb_form>
+        <verb_form total="7" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=1|Voice=Pass</verb_form>
+        <verb_form total="5" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=1|Voice=Pass</verb_form>
+        <verb_form total="4" value="_">Gender=Fem|Mood=Ind|Number=Plur|Person=3|Voice=Pass</verb_form>
+        <verb_form total="2" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Number=Sing|Person=3|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="25403">
+        <verb_form total="9258" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="6856" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="1356" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="1192" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="1136" value="_">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="1062" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=1|Voice=Act</verb_form>
+        <verb_form total="881" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="604" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="531" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="457" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="385" value="_">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="372" value="_">Gender=Masc|Mood=Sub|Number=Plur|Person=1|Voice=Act</verb_form>
+        <verb_form total="280" value="_">Gender=Masc|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="145" value="_">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="130" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="97" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="82" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="79" value="_">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="77" value="_">Gender=Masc|Mood=Jus|Number=Plur|Person=1|Voice=Act</verb_form>
+        <verb_form total="60" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="48" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="45" value="_">Gender=Fem|Mood=Ind|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="39" value="_">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="38" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=2|Voice=Act</verb_form>
+        <verb_form total="20" value="_">Gender=Masc|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="20" value="_">Gender=Masc|Number=Plur|Person=2|Voice=Act</verb_form>
+        <verb_form total="18" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="17" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Pass</verb_form>
+        <verb_form total="15" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=1|Voice=Pass</verb_form>
+        <verb_form total="14" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Voice=Pass</verb_form>
+        <verb_form total="13" value="_">Gender=Fem|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="12" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="10" value="_">Gender=Fem|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="9" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="9" value="_">Gender=Masc|Mood=Ind|Number=Dual|Person=2|Voice=Act</verb_form>
+        <verb_form total="7" value="_">Gender=Fem|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="7" value="_">Gender=Masc|Number=Plur|Person=3|Voice=Pass</verb_form>
+        <verb_form total="5" value="_">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Pass</verb_form>
+        <verb_form total="3" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=2|Voice=Pass</verb_form>
+        <verb_form total="3" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=1|Voice=Pass</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=1|Voice=Pass</verb_form>
+        <verb_form total="2" value="_">Gender=Fem|Number=Plur|Person=2|Voice=Act</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Number=Dual|Person=2|Voice=Act</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=2|Voice=Pass</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Number=Dual|Person=3|Voice=Pass</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Sub|Number=Plur|Person=1|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2">
+    <verb_lemma>none</verb_lemma>
+    <aspect-values p-value="0.1715714" sign="no" more-frequent="Perf">
+      <value label="Perf" total="117">
+        <verb_form total="55" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="38" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="7" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="3" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=1|Voice=Act</verb_form>
+        <verb_form total="3" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="2" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="2" value="_">Gender=Fem|Mood=Ind|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Pass</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Fem|Mood=Ind|Number=Dual|Person=3|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="97">
+        <verb_form total="24" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="13" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="12" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="11" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="8" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="6" value="_">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="4" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="3" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="3" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=1|Voice=Pass</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Mood=Sub|Number=Plur|Person=1|Voice=Act</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="1" value="_">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="5">
+    <verb_lemma>tbupdate</verb_lemma>
+    <aspect-values p-value="0.0101207" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="122">
+        <verb_form total="26" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="25" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="23" value="_">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="16" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="15" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="9" value="_">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="7" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Pass</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=1|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="85">
+        <verb_form total="18" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="16" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="10" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=2|Voice=Pass</verb_form>
+        <verb_form total="9" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="8" value="_">Gender=Masc|Mood=Sub|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="4" value="_">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="4" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Act</verb_form>
+        <verb_form total="3" value="_">Gender=Masc|Mood=Sub|Number=Plur|Person=1|Voice=Act</verb_form>
+        <verb_form total="3" value="_">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Voice=Pass</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=1|Voice=Act</verb_form>
+        <verb_form total="2" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Fem|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=2|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Act</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Pass</verb_form>
+        <verb_form total="1" value="_">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

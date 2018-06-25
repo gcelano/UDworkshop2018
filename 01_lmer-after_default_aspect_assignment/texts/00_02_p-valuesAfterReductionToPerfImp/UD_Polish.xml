@@ -1,0 +1,114 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Polish" xquery="03_p-values.xq">
+  <case n="508">
+    <verb_lemma>stać</verb_lemma>
+    <aspect-values p-value="0.2482131" sign="no" more-frequent="Imp">
+      <value label="Perf" total="20">
+        <verb_form total="18" value="stało">Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="stać">VerbForm=Inf</verb_form>
+        <verb_form total="1" value="stanie">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="28">
+        <verb_form total="6" value="stoi">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="5" value="stał">Animacy=Hum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="stała">Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="stali">Animacy=Hum|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="stoją">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="stojąc">Tense=Pres|VerbForm=Conv</verb_form>
+        <verb_form total="1" value="stały">Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="stał">Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="stały">Animacy=Inan|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="stał">Animacy=Nhum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="stać">VerbForm=Inf</verb_form>
+        <verb_form total="1" value="stoję">Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="stoisz">Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="7">
+    <verb_lemma>należeć</verb_lemma>
+    <aspect-values p-value="4.040854e-10" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="1">
+        <verb_form total="1" value="należał">Animacy=Hum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="42">
+        <verb_form total="25" value="należy">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="6" value="należą">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="6" value="należało">Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="należała">Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="należąc">Tense=Pres|VerbForm=Conv</verb_form>
+        <verb_form total="1" value="należał">Animacy=Hum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="należeć">VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="230">
+    <verb_lemma>dać</verb_lemma>
+    <aspect-values p-value="4.066142e-08" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="33">
+        <verb_form total="8" value="daj">Mood=Imp|Number=Sing|Person=2|VerbForm=Fin</verb_form>
+        <verb_form total="4" value="dam">Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="4" value="dał">Animacy=Hum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="da">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="dać">VerbForm=Inf</verb_form>
+        <verb_form total="2" value="dały">Animacy=Inan|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="dali">Animacy=Hum|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="dało">Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="dał">Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="dały">Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="dajcie">Mood=Imp|Number=Plur|Person=2|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dały">Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="dała">Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="dalo">Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="112">
+    <verb_lemma>posiadać</verb_lemma>
+    <aspect-values p-value="0.0002747268" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="1">
+        <verb_form total="1" value="posiadał">Animacy=Nhum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="16">
+        <verb_form total="8" value="posiada">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="posiadają">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="posiadasz">Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="posiadał">Animacy=Hum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="posiadała">Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="637">
+    <verb_lemma>kazać</verb_lemma>
+    <aspect-values p-value="0.02013675" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="12">
+        <verb_form total="7" value="kazał">Animacy=Hum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="kazali">Animacy=Hum|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="kazała">Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="każę">Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="każe">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="każą">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="każąc">Tense=Pres|VerbForm=Conv</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="514">
+    <verb_lemma>poruszać</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="poruszać">VerbForm=Inf</verb_form>
+      </value>
+      <value label="Imp" total="8">
+        <verb_form total="3" value="poruszać">VerbForm=Inf</verb_form>
+        <verb_form total="1" value="poruszał">Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="porusza">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="poruszały">Animacy=Inan|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="poruszają">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="poruszał">Animacy=Hum|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

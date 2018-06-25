@@ -1,0 +1,17 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Slovenian-SST" xquery="03_p-values.xq">
+  <case n="307">
+    <verb_lemma>pasti</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="padle">Gender=Fem|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="padeš">Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="padlo">Gender=Neut|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="padel">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="3" value="pasli">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="pasti">VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

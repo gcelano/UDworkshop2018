@@ -1,0 +1,1310 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Old_Church_Slavonic" xquery="03_p-values.xq">
+  <case n="4">
+    <verb_lemma>рещи</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="709">
+        <verb_form total="563" value="рече">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="91" value="рѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="32" value="рѣхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="16" value="рѣсте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="рече">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="рѣсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="реклъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="10">
+    <verb_lemma>бꙑти</verb_lemma>
+    <aspect-values p-value="2.499786e-10" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="187">
+        <verb_form total="152" value="бꙑстъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="17" value="бꙑшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="9" value="бꙑⷭ҇">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="бꙑсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="бꙑсте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="бꙑст">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="бꙑстъ">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="331">
+        <verb_form total="235" value="бѣ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="45" value="бѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="13" value="бѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="8" value="бѣхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="8" value="бѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="бѣашете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="бѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="бѣсте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="бѣ">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="бѣхомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="бѣа҅хѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="24">
+        <verb_form total="10" value="бꙑлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="бꙑли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="бꙑло">Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="бꙑлꙑ">Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="бꙑла">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="бъилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="5">
+    <verb_lemma>глаголати</verb_lemma>
+    <aspect-values p-value="2.89181e-11" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="277">
+        <verb_form total="227" value="г҃ла">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="26" value="г҃лашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="12" value="г҃лахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="г҃лшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="г҃ласте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="г҃ласте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="г҃лхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="гласте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="141">
+        <verb_form total="41" value="г҃лаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="39" value="г҃лааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="32" value="г҃лаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="10" value="г҃лхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="10" value="г҃лахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="г҃лше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="глааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="г҃лаахо">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="глаголааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="г҃лаашете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="г҃лаашете">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="3">
+        <verb_form total="1" value="г҃лали">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="г҃лъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="г҃лалъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2">
+    <verb_lemma>прити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="185">
+        <verb_form total="109" value="приде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="45" value="придѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="21" value="придъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="придете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="придѭ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="приде">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="пр҅иде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="придете">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="придомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="придѫ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="14">
+        <verb_form total="9" value="пришелъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="пришъли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="пришълꙑ">Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="пришъла">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="51">
+    <verb_lemma>сътворити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="94">
+        <verb_form total="57" value="сътвори">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="20" value="сътворишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="сътвористе">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="сътворихъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="сътворихомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="сътвори">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="10">
+        <verb_form total="8" value="сътворилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="сътворили">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="9">
+    <verb_lemma>ити</verb_lemma>
+    <aspect-values p-value="5.733031e-07" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="75">
+        <verb_form total="31" value="иде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="24" value="идѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="8" value="ꙇде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="идете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="идомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="ꙇдете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ꙇдѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="25">
+        <verb_form total="14" value="идѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="идѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="ꙇдѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="идѣашете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ꙇдѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="65">
+    <verb_lemma>отъвѣщати</verb_lemma>
+    <aspect-values p-value="1.061359e-20" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="90">
+        <verb_form total="52" value="отъвѣшта">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="13" value="отъвѣща">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="13" value="отъвѣшташѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="отъвѣщашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="о҅тъвѣшта">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ѡтъвѣща">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ѡтъвѣшта">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="о҅тъвѣща">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="отъвѣштасте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="отьвѣшташѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="отъвѣшта">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="отъвѣштааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="отъвѣштали">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="8">
+    <verb_lemma>видѣти</verb_lemma>
+    <aspect-values p-value="3.034872e-16" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="78">
+        <verb_form total="33" value="видѣ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="22" value="видѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="10" value="видѣхомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="видѣхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="видѣсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="видѣсте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="видѣсте">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="видѣста">Mood=Ind|Number=Dual|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="3" value="видѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="видѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="5">
+        <verb_form total="3" value="видѣлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="видѣли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="видѣлꙑ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="31">
+    <verb_lemma>дати</verb_lemma>
+    <aspect-values p-value="5.531835e-15" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="64">
+        <verb_form total="47" value="дастъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="дашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="дахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="дастъ">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="дасте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="дадите">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="дастꙑ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="да">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="дадѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="18">
+        <verb_form total="18" value="далъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="20">
+    <verb_lemma>изити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="70">
+        <verb_form total="30" value="изиде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="11" value="ꙇзиде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="8" value="изидѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="изидете">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="изидъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="ꙇзидѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="ꙇ҅зиде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="изидете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ꙇзидъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="ишелъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="72">
+    <verb_lemma>имѣти</verb_lemma>
+    <aspect-values p-value="0.01630917" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="12">
+        <verb_form total="7" value="имѣ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="имѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="имѣхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="27">
+        <verb_form total="13" value="имѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="имѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="имѣше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="имѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ꙇмѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="имѣхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="6">
+        <verb_form total="5" value="имѣли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="имѣла">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="80">
+    <verb_lemma>слꙑшати</verb_lemma>
+    <aspect-values p-value="3.421971e-06" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="34">
+        <verb_form total="10" value="слꙑшасте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="8" value="слꙑшашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="слꙑша">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="слꙑшахомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="слꙑшахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="слꙑшахомꙑ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="слꙑшасте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="слꙑшаста">Mood=Ind|Number=Dual|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="слъшашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="3" value="слꙑшаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="слꙑшааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="слꙑшали">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="120">
+    <verb_lemma>молити</verb_lemma>
+    <aspect-values p-value="0.006485308" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="11">
+        <verb_form total="6" value="молишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="моли">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="молихъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="28">
+        <verb_form total="14" value="молѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="молѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="молѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="молѣше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="153">
+    <verb_lemma>хотѣти</verb_lemma>
+    <aspect-values p-value="5.903578e-05" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="4">
+        <verb_form total="2" value="хотѣ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="хотѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="хотѣсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="26">
+        <verb_form total="13" value="хотѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="хотѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="хотѣше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="хотѣаше">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="хотѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="хотѣлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="53">
+    <verb_lemma>вѣдѣти</verb_lemma>
+    <aspect-values p-value="0.0001242361" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="2">
+        <verb_form total="2" value="вѣдѣхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="20">
+        <verb_form total="11" value="вѣдѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="вѣдѣше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="вѣдѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="вѣдѣаше">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вѣдѣахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вѣдѣахъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вѣдѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="7">
+        <verb_form total="3" value="вѣдѣли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="вѣдѣлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="вѣдѣла">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="58">
+    <verb_lemma>отити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="27">
+        <verb_form total="22" value="отиде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="отидѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="1" value="ошъли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="отъшелъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="136">
+    <verb_lemma>разоумѣти</verb_lemma>
+    <aspect-values p-value="1.499876e-06" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="26">
+        <verb_form total="16" value="разоумѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="разоумѣ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="разоумѣсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="разоумѣсте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="разоумѣхомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="разоумѣ">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="разоумѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="разоумѣлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="14">
+    <verb_lemma>оумрѣти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="23">
+        <verb_form total="16" value="оумьрѣтъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="оумьрѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="оумърѣтъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="оу҅мьрѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="4">
+        <verb_form total="2" value="оумръла">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="оумрълъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="26">
+    <verb_lemma>дивити</verb_lemma>
+    <aspect-values p-value="0.1166645" sign="no" more-frequent="Imp">
+      <value label="Perf" total="9">
+        <verb_form total="4" value="дивишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="диви">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="дивисте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="17">
+        <verb_form total="11" value="дивлѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="дивлѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="18">
+    <verb_lemma>ѩти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="24">
+        <verb_form total="12" value="ѩсѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="ѩтъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="ѩсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ѩсте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ѩсомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ѩ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="ѩли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="106">
+    <verb_lemma>възѧти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="23">
+        <verb_form total="8" value="вьзѧсѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="вьзѧсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="вьзѧтъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="вьзѧсѧ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="възѧсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="възѧсомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="възѧсѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вьзѧтъ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вьзѧшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="възѧшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="1" value="възѧлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="вьзѧлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="291">
+    <verb_lemma>вѣровати</verb_lemma>
+    <aspect-values p-value="0.0001446961" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="22">
+        <verb_form total="10" value="вѣровашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="вѣрова">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="вѣровасте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="вѣрова">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вѣровахомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вѣровахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="вѣроваахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вѣровахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="137">
+    <verb_lemma>въпрашати</verb_lemma>
+    <aspect-values p-value="7.097908e-06" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="1">
+        <verb_form total="1" value="въпраша">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="23">
+        <verb_form total="12" value="въпрашаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="8" value="въпрашааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="въпрашаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="въпрашахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="27">
+    <verb_lemma>авити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="21">
+        <verb_form total="11" value="ѣви">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="ави">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="ѣвишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="ѣвихъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ависте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="1" value="ѣвилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="авили">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="146">
+    <verb_lemma>мощи</verb_lemma>
+    <aspect-values p-value="0.03300626" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="6">
+        <verb_form total="4" value="може">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="могѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="16">
+        <verb_form total="11" value="можааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="можаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="можаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="можѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="моглъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="166">
+    <verb_lemma>оставити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="20">
+        <verb_form total="13" value="остави">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="оставихомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="оставишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="остависте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="остави">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="2" value="оставилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="159">
+    <verb_lemma>прѣдати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="17">
+        <verb_form total="8" value="прѣдашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="прѣдастъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="прѣдастꙑ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="прѣдасте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="4">
+        <verb_form total="2" value="прѣдали">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="прѣдалъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="111">
+    <verb_lemma>ꙗсти</verb_lemma>
+    <aspect-values p-value="0.02904902" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="13">
+        <verb_form total="4" value="ѣсѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="ѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="ѣстъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="ѣсѧ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ѣсмь">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="4" value="ѣдѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="1" value="ѣли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ѣлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="68">
+    <verb_lemma>събьрати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="17">
+        <verb_form total="13" value="събърашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="събъра">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="събьрашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="събрашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="събьраль">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="212">
+    <verb_lemma>положити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="17">
+        <verb_form total="7" value="положи">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="положишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="положихъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="положисте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="положисте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="положилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="185">
+    <verb_lemma>вести#1</verb_lemma>
+    <aspect-values p-value="0.002699796" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="14">
+        <verb_form total="12" value="вѣсѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="веде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вѣсѧ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="ведѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ведѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="278">
+    <verb_lemma>възлюбити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="11">
+        <verb_form total="3" value="вьзлюби">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="възлюби">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="възлюбихъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="възлюбишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="възлюбисте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вьзлюбишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вьзлюбихъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="4">
+        <verb_form total="4" value="възлюбилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="95">
+    <verb_lemma>оучити</verb_lemma>
+    <aspect-values p-value="0.003892417" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="1">
+        <verb_form total="1" value="оучи">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="11">
+        <verb_form total="9" value="оучааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="оучаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="оучилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="162">
+    <verb_lemma>родити#1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="10">
+        <verb_form total="7" value="роди">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="родишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="родихъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="3">
+        <verb_form total="3" value="родилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="257">
+    <verb_lemma>творити</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="12">
+        <verb_form total="4" value="творѣше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="творѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="творѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="творѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="творѣаше">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="творили">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="16">
+    <verb_lemma>съпасти#1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="10">
+        <verb_form total="3" value="с҃псе">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="спасе">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="съпасе">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="с҃пс">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="съп҃с">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="1" value="с҃ъпслъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="съпс҃л">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="315">
+    <verb_lemma>съвѣдѣтельствовати</verb_lemma>
+    <aspect-values p-value="0.02092134" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="10">
+        <verb_form total="6" value="съвѣдѣтельствова">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="съвѣдѣтельствовахъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="съвѣдѣтельствова">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="съвѣдѣтельствоуоутъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="съвѣдѣтельствовашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="съвѣдѣтельствоваахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="съвѣдѣтельствовааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="50">
+    <verb_lemma>чисти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="чисѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="10">
+        <verb_form total="6" value="чьли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="чъли">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="155">
+    <verb_lemma>съказати</verb_lemma>
+    <aspect-values p-value="0.131668" sign="no" more-frequent="Perf">
+      <value label="Perf" total="8">
+        <verb_form total="4" value="съказа">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="съказашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="съказахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="3" value="съказаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="47">
+    <verb_lemma>прѣбꙑти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="5" value="прѣбꙑстъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="прѣбꙑсте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="прѣбꙑшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="1" value="прѣбꙑлꙑ">Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="прѣбꙑлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="464">
+    <verb_lemma>любити</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="6">
+        <verb_form total="5" value="люблѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="люблѣше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="3">
+        <verb_form total="2" value="любили">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="любилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="6">
+    <verb_lemma>чоудити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="5" value="чюдишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="чюди">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="чюждаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="чоуждаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="21">
+    <verb_lemma>коснѫти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="7" value="коснѫ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="коснѫлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="43">
+    <verb_lemma>плакати#1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="плака">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="плакахомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="плакасте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="плакаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="плакааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="110">
+    <verb_lemma>благословити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="2" value="б҃лгсви">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="б҃лгслви">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="благослови">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="б҃лгви">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="благословѣше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="133">
+    <verb_lemma>просити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="проси">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="просишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="просисте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="прошаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="просила">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="177">
+    <verb_lemma>оуготовати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="3" value="оуготовашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="оуготовасте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="оуготова">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="оуготовахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="оуготовалъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="205">
+    <verb_lemma>бити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="бишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="6">
+        <verb_form total="3" value="биѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="биѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="биѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="258">
+    <verb_lemma>погоубити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="погоуби">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="погоубихъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="3">
+        <verb_form total="2" value="погоубили">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="погоубилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="298">
+    <verb_lemma>оубити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="5" value="оубишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="оубисте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="2" value="оубили">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="86">
+    <verb_lemma>сѣти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="сѣхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="сѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="сѣахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="3">
+        <verb_form total="3" value="сѣлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="305">
+    <verb_lemma>въздрадовати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="3" value="въздрадовашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="въздрадова">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="въздрадова">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="въздрадовали">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="63">
+    <verb_lemma>раздѣлити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="4" value="раздѣли">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="раздѣлишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="раздѣлилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="227">
+    <verb_lemma>лежати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="лежа">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="3" value="лежааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="лежаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="лежало">Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="228">
+    <verb_lemma>тещи</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="4" value="тече">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="тѣсте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="течаашете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="283">
+    <verb_lemma>въсѣсти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="4" value="вьсѣде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="вьсѣдѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="вьсѣлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="434">
+    <verb_lemma>пьсати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="писа">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="писахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="писааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="46">
+    <verb_lemma>покаꙗти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="покаашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="2" value="покаали">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="168">
+    <verb_lemma>мьнѣти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="мьнѣшѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="4" value="мьнѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="276">
+    <verb_lemma>напьсати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="4" value="написа">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="написалъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="282">
+    <verb_lemma>зъвати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="зъва">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="3" value="зъваахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="зъвааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="308">
+    <verb_lemma>пити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="пишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="пихомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="питъ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="пиѣхѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="337">
+    <verb_lemma>посѣтити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="посѣти">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="посѣтисте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="посѣтилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="38">
+    <verb_lemma>прѣити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="прѣиде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="прѣіде">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="прѣшелъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="54">
+    <verb_lemma>осѫдити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="осѫдишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="осѫди">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="осѫдили">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="180">
+    <verb_lemma>облобꙑзати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="облобꙑза">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="облобꙑзааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="210">
+    <verb_lemma>метати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="меташѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="метаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="242">
+    <verb_lemma>сътѧѕати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="сътѧѕашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="сътѧза">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="сътѧѕахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="сътѧзаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="301">
+    <verb_lemma>послоушати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="послоушашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="послоушаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="послоушааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="послоушала">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="321">
+    <verb_lemma>наоучити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="наоучи">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="наоучишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="наоучилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="347">
+    <verb_lemma>чоути</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="чю">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="чю">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="чюхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="чюлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="44">
+    <verb_lemma>рꙑдати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="рꙑдасте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="рꙑдахомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="рꙑдаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="48">
+    <verb_lemma>оутаити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="оутаи">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="2" value="оутаилъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="84">
+    <verb_lemma>оуподобити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="оу҅подоби">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="оуподоби">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="оуподобило">Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="121">
+    <verb_lemma>заповѣдати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="заповѣда">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="заповѣдахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="заповѣдаа҅ше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="148">
+    <verb_lemma>варити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="вари">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="варишѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="варила">Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="215">
+    <verb_lemma>оупъвати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="оупъва">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="оупъвасте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="оупъвааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="216">
+    <verb_lemma>поносити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="поноси">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="поношаасте">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="поношаашете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="410">
+    <verb_lemma>прилежати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="прилежа">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="прилежаахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="445">
+    <verb_lemma>болѣти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="болѣхъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="болѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="469">
+    <verb_lemma>знати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="знахъ">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="2">
+        <verb_form total="2" value="знали">Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="189">
+    <verb_lemma>дѣꙗти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="дѣашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="дѣаше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="254">
+    <verb_lemma>трѣбовати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="трѣбова">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="трѣбовааше">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="269">
+    <verb_lemma>цѣловати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="цѣлова">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="цѣловаахѫ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="358">
+    <verb_lemma>въсприѩти</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="вьсприѩсте">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="въсприѩлъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="418">
+    <verb_lemma>пристати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="присташѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Res" total="1">
+        <verb_form total="1" value="присталъ">Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="429">
+    <verb_lemma>повѣдати</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="повѣдашѧ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="повѣдаашете">Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="490">
+    <verb_lemma>изгонити</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="изгонихомъ">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="изгонѣахѫ">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

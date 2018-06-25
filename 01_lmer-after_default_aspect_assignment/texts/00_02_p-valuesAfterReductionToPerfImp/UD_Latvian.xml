@@ -1,0 +1,320 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Latvian" xquery="03_p-values.xq">
+  <case n="94">
+    <verb_lemma>būt</verb_lemma>
+    <aspect-values p-value="4.222565e-08" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="71">
+        <verb_form total="42" value="bijis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="14" value="bijusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="bijuši">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="bijušas">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="bijušajām">Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="bijušajiem">Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="bijušo">Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="bijušo">Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="19">
+        <verb_form total="4" value="esošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="3" value="esošais">Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="esošiem">Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="esošajiem">Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="esošās">Case=Loc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="esošo">Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="esošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="esošajos">Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="esošos">Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="esošā">Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="104">
+    <verb_lemma>notikt</verb_lemma>
+    <aspect-values p-value="0.01637731" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="16">
+        <verb_form total="5" value="noticis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="notikušas">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="notikusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="notikušās">Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="notikušā">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="notikuši">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="notikušo">Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="notikušajā">Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="notikušās">Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="notiekošo">Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="notiekošajam">Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="notiekošos">Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="notiekošo">Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="23">
+    <verb_lemma>radīt</verb_lemma>
+    <aspect-values p-value="0.007290358" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="16">
+        <verb_form total="5" value="radījis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="radīts">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="radījuši">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="radītas">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="radīta">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="radīti">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="radīto">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="radošā">Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="radošs">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="radošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="298">
+    <verb_lemma>strādāt</verb_lemma>
+    <aspect-values p-value="1" sign="no" more-frequent="Imp">
+      <value label="Perf" total="7">
+        <verb_form total="3" value="strādājuši">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="strādājis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="strādājusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="2" value="strādājošie">Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="strādājošajiem">Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="strādājošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="strādājošajam">Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="strādājošiem">Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="45">
+    <verb_lemma>domāt</verb_lemma>
+    <aspect-values p-value="0.002281937" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="12">
+        <verb_form total="5" value="domāta">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="domājis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="domātas">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="domātu">Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="domājuši">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="domājusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="domāts">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="domājoši">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="596">
+    <verb_lemma>pieaugt</verb_lemma>
+    <aspect-values p-value="0.02092134" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="10">
+        <verb_form total="3" value="pieaugusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="pieaudzis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="pieauguši">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="pieaugušus">Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="pieaugušo">Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="pieaugušie">Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="pieauguša">Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="pieaugošo">Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="pieaugošās">Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="149">
+    <verb_lemma>pārliecināt</verb_lemma>
+    <aspect-values p-value="0.03480848" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="9">
+        <verb_form total="5" value="pārliecināts">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="pārliecināta">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="pārliecinošā">Case=Loc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="pārliecinošās">Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="127">
+    <verb_lemma>iet</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="3" value="gājusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="gājuši">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="gājis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ejošu">Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="386">
+    <verb_lemma>tapt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="tapusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="tapis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="tapušai">Case=Dat|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="topošo">Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="554">
+    <verb_lemma>pastāvēt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="pastāvējusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="pastāvējis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="pastāvošu">Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="pastāvošām">Case=Dat|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="pastāvošais">Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="258">
+    <verb_lemma>piederēt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="piederējušas">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="1" value="piederoša">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="piederošajiem">Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="piederošā">Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="piederošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="piederošās">Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="6">
+    <verb_lemma>vārīt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="vārīta">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vārītu">Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vārītu">Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="vārošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="517">
+    <verb_lemma>vadīt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="vadītās">Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vadītā">Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="vadošos">Case=Loc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="vadošais">Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="144">
+    <verb_lemma>runāt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="runāts">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="runājis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="runājošais">Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="384">
+    <verb_lemma>studēt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="studējis">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="studējošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="studējošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="studējošajiem">Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="446">
+    <verb_lemma>applūst</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="applūdušo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="applūstošajās">Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="applūstošajām">Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="841">
+    <verb_lemma>piedzerties</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="piedzērusies">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="piedzērušies">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="877">
+    <verb_lemma>uzturēt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="uzturētajos">Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="uzturēts">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="uzturošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="36">
+    <verb_lemma>ieinteresēt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ieinteresēts">Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ieinteresējošo">Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="180">
+    <verb_lemma>gulēt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="gulējusi">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="guļošos">Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="437">
+    <verb_lemma>veicināt</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="veicināta">Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="veicinošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="820">
+    <verb_lemma>krist</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="kritušu">Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="krītošo">Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

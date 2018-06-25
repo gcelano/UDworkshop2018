@@ -1,0 +1,2116 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Latin" xquery="03_p-values.xq">
+  <case n="34">
+    <verb_lemma>sum1</verb_lemma>
+    <aspect-values p-value="0.106621" sign="no" more-frequent="Imp">
+      <value label="Perf" total="47">
+        <verb_form total="22" value="fuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="9" value="fuerunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="fuisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+        <verb_form total="3" value="fui">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="fuere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fuerint">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fuimus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fuerit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="64">
+        <verb_form total="29" value="erat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="13" value="esset">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="erant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="foret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="eras">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="essem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="essent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="eram">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="essemus">Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="21">
+    <verb_lemma>dico2</verb_lemma>
+    <aspect-values p-value="0.001135031" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="42">
+        <verb_form total="22" value="dixit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="dixerunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="dixi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="dixisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+        <verb_form total="2" value="dixerim">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="diximus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dictus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="dictos">Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="dixero">Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dixisti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dictorum">Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="dicit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dixerit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dictum">Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="17">
+        <verb_form total="5" value="dicebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="diceret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="dicebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="diceretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="dicerem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dicebas">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dicebam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dicebantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="dicebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="47">
+    <verb_lemma>video1</verb_lemma>
+    <aspect-values p-value="0.0008740872" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="38">
+        <verb_form total="22" value="vidi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="vidit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="visa">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="3" value="viderint">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="viderunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="visae">Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="vidisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+        <verb_form total="1" value="vidimus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="vidisti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="visus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="14">
+        <verb_form total="5" value="videbatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="2" value="videretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="2" value="videbantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="2" value="viderentur">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="viderer">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="videret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="viderem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="194">
+    <verb_lemma>facio1</verb_lemma>
+    <aspect-values p-value="9.758408e-06" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="36">
+        <verb_form total="13" value="fecit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="fecere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="fecisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+        <verb_form total="2" value="feci">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="factis">Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="fecerunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fecerit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="facto">Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="factus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="feceris">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fecisti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="factum">Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="fecerit">Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="facta">Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="5" value="faceret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="faciebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="faciebas">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="87">
+    <verb_lemma>habeo1</verb_lemma>
+    <aspect-values p-value="0.2623317" sign="no" more-frequent="Imp">
+      <value label="Perf" total="16">
+        <verb_form total="7" value="habuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="habuimus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="habui">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="habitis">Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="habuere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="habita">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="habuisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="23">
+        <verb_form total="9" value="habebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="habebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="haberet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="haberent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="haberemus">Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="habebam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="haberem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="haberes">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="20">
+    <verb_lemma>possum1</verb_lemma>
+    <aspect-values p-value="0.2230175" sign="no" more-frequent="Perf">
+      <value label="Perf" total="20">
+        <verb_form total="8" value="potui">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="6" value="potuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="potuisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+        <verb_form total="2" value="potuere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="potuistis">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="13">
+        <verb_form total="5" value="posset">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="poterat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="possent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="posses">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="poterant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="possem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2">
+    <verb_lemma>do1</verb_lemma>
+    <aspect-values p-value="0.01051525" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="17">
+        <verb_form total="6" value="dedit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="dedimus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="dedi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dato">Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="datae">Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="dedere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dederunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dederis">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="datis">Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="dederis">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="darent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dabam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="daret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="218">
+    <verb_lemma>volo1</verb_lemma>
+    <aspect-values p-value="0.2008251" sign="no" more-frequent="Perf">
+      <value label="Perf" total="14">
+        <verb_form total="6" value="voluit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="voluisti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="voluerit">Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="volui">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="voluerit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="voluerint">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="voluisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="8">
+        <verb_form total="4" value="vellet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="uellent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="volebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="volebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="527">
+    <verb_lemma>facio</verb_lemma>
+    <aspect-values p-value="0.00455635" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="17">
+        <verb_form total="3" value="feci">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="fecit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="facta">Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="fecisti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fecerit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fecerim">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fecerunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="facto">Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="feceritis">Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="factum">Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="feceris">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="facta">Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="faceres">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="facerem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="faciebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="faceret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="444">
+    <verb_lemma>do</verb_lemma>
+    <aspect-values p-value="0.01241933" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="13">
+        <verb_form total="7" value="dedit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="data">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="dederit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="dedi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="data">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="datae">Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="darem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="daret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="daretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="507">
+    <verb_lemma>possum</verb_lemma>
+    <aspect-values p-value="1" sign="no" more-frequent="Imp">
+      <value label="Perf" total="7">
+        <verb_form total="4" value="potuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="potueris">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="potuerit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="potuisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="3" value="possent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="posset">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="poterant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="460">
+    <verb_lemma>video</verb_lemma>
+    <aspect-values p-value="0.02092134" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="10">
+        <verb_form total="7" value="vidit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="viderunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="videre">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="visum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="uidebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="videbatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="255">
+    <verb_lemma>mitto1</verb_lemma>
+    <aspect-values p-value="0.03480848" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="9">
+        <verb_form total="7" value="misit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="miserunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="missum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="mitteretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="mittebantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="57">
+    <verb_lemma>paro1</verb_lemma>
+    <aspect-values p-value="1" sign="no" more-frequent="Imp">
+      <value label="Perf" total="5">
+        <verb_form total="1" value="paravit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="paraverunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="paratum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="paratam">Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="parati">Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="parabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="pararet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="parabant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="parabatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="122">
+    <verb_lemma>capio1</verb_lemma>
+    <aspect-values p-value="0.2059032" sign="no" more-frequent="Perf">
+      <value label="Perf" total="7">
+        <verb_form total="3" value="cepit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ceperit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="captus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="capta">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="ceperint">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="capiebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="capiebantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="caperent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="208">
+    <verb_lemma>accipio1</verb_lemma>
+    <aspect-values p-value="0.01141204" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="9">
+        <verb_form total="4" value="accepit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="accepi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="acceperit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="accipiebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="37">
+    <verb_lemma>fero1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="4" value="tulit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="tulisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+        <verb_form total="1" value="tuli">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="ferebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ferebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="7">
+    <verb_lemma>nascor</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="2" value="natus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="natos">Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="nati">Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="natus">Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="natum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="nascerer">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="49">
+    <verb_lemma>teneo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="2" value="tenuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="tenuisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+        <verb_form total="1" value="tenuerunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="tenebas">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="tenebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="tenebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="290">
+    <verb_lemma>eo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="iveris">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="isse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="6">
+        <verb_form total="4" value="ibat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="ibant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="513">
+    <verb_lemma>ago</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="2" value="egit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="actis">Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="egisti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="egi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="acta">Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="agebam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="33">
+    <verb_lemma>premo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="4" value="pressit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="presserit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="premerem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="premeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="40">
+    <verb_lemma>ago1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="actis">Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="actum">Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="egit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="actis">Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="ageret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="agebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="46">
+    <verb_lemma>muto1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="1" value="mutatas">Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="mutastis">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="mutati">Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="mutatum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="mutata">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="mutavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="mutarent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="191">
+    <verb_lemma>exeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="3" value="exivit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="eximus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="exierunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="exieris">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="exiret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="337">
+    <verb_lemma>paro2</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="1" value="paravi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="paravit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="paratis">Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="parata">Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="paravere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="parabant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="parabantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="346">
+    <verb_lemma>lego2</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="legit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="legi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="lecta">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="lectas">Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="legebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="legerent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="legeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="490">
+    <verb_lemma>habeo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="habuerint">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="habueris">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="habui">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="habitae">Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="haberes">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="haberet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="haberem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="14">
+    <verb_lemma>peto1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="petii">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="petiit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="peterem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="peteret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="peteretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="petebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="65">
+    <verb_lemma>contineo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="contenta">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="contentus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="contentum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="contineret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="continebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="71">
+    <verb_lemma>soleo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="solitae">Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="solitos">Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="solebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="solebam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="102">
+    <verb_lemma>sto1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="stetit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="3" value="stabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="stabant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="150">
+    <verb_lemma>duco1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="duxit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="duxi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="duxerit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ductis">Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="duceret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="ducebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="365">
+    <verb_lemma>gero1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="gessi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="gessit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="gestas">Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="gessimus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="gerebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="gereret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="64">
+    <verb_lemma>traho1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="traxit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="traxere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="traherent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="traherem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="traheret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="90">
+    <verb_lemma>quaero1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="quaesitis">Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="quaesita">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="quaesieris">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="quaererent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="quaerebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="119">
+    <verb_lemma>effundo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="effuso">Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="effusus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="effudit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="effunderent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="effundebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="142">
+    <verb_lemma>rapio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="rapuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="rapto">Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="rapiebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="324">
+    <verb_lemma>recito1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="4" value="recitavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="recitabantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="377">
+    <verb_lemma>utor1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="usus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="usus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="usi">Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="utebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="448">
+    <verb_lemma>jaceo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="iacuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="3" value="iaceret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="iacebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="536">
+    <verb_lemma>scio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="scierint">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="scivit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="scirem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="scirent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="scires">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="540">
+    <verb_lemma>accipio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="accepimus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="accepi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="acceperunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="accepta">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="acciperetur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="588">
+    <verb_lemma>praesto2</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="praestiterint">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="praestiti">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="praestitit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="praestiterit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="praestabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="613">
+    <verb_lemma>invenio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="inveni">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="invenit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="inueniretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="653">
+    <verb_lemma>accendo2</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="accensae">Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="accensa">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="accenderet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="accendebantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="accendebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="674">
+    <verb_lemma>augeo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="auxit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="auxi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="auctam">Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="augebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="5">
+    <verb_lemma>desum</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="defuerint">Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="deerat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="deessent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="15">
+    <verb_lemma>adeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="adit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="adiit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="adirem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="adiretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="30">
+    <verb_lemma>excipio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="exceptum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="excepit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="excepta">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="exciperem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="52">
+    <verb_lemma>sedeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="sedere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="sedit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="sedebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="66">
+    <verb_lemma>inpono1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="inposuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="inpositam">Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="inposuere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="inponeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="75">
+    <verb_lemma>timeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="timuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="timui">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="timeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="timebam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="81">
+    <verb_lemma>tego1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="tectus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="tectum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="texerint">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="tegebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="103">
+    <verb_lemma>tango1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="tetigere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="tetigit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="tetigi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="tangebam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="132">
+    <verb_lemma>spargo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="sparsum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="sparsos">Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="sparserunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="spargeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="151">
+    <verb_lemma>invenio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="inventa">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="invenerit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="invenit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="inveniebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="156">
+    <verb_lemma>colo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="cultum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="culta">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="colebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="colebantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="176">
+    <verb_lemma>obliviscor1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="obliti">Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="oblitus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="oblivisceretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="199">
+    <verb_lemma>canto1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="cantavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="cantaret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="204">
+    <verb_lemma>frango1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="fregi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="fractas">Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="fractam">Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="frangeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="207">
+    <verb_lemma>licet1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="licuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="licebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="219">
+    <verb_lemma>servo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="servavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="servavere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="servabatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="431">
+    <verb_lemma>contingo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="contigerit">Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="contactum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="contigit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="contingerent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="446">
+    <verb_lemma>terreo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="territus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="terruit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="terreret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="459">
+    <verb_lemma>fero</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="tuli">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="latis">Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="tulisti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ferret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="484">
+    <verb_lemma>laudo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="laudatis">Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="laudauit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="laudata">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="laudares">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="521">
+    <verb_lemma>pereo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="periere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="perit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="perisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="periret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="594">
+    <verb_lemma>fingo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="fictas">Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="fictis">Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="finxit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="fingebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="611">
+    <verb_lemma>ostendo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="ostentum">Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="ostendit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="ostendebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="ostenderet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="665">
+    <verb_lemma>capio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="cepi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="capta">Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="captorum">Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="caperet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="670">
+    <verb_lemma>administro</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="administrauit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="administravi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="administrabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="705">
+    <verb_lemma>contineo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="contentus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="contenta">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="contentum">Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="continerentur">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="724">
+    <verb_lemma>nitor1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="nixa">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="niteretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="nitebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="878">
+    <verb_lemma>clamo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="clamaverunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="clamavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="clamaverunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="clamabant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1026">
+    <verb_lemma>agito1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="agitavi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="agitabatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="agitabantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="9">
+    <verb_lemma>absum</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="aberit">Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="afuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="abesset">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="27">
+    <verb_lemma>obeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="obiit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="obibat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="29">
+    <verb_lemma>sequor1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="secutus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="sequebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="sequeretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="45">
+    <verb_lemma>exopto1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="exoptata">Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="exoptabant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="exoptabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="68">
+    <verb_lemma>terreo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="territus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="terruit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="terrerent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="97">
+    <verb_lemma>placeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="placuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="placuisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="placeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="152">
+    <verb_lemma>eripio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="ereptam">Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="eripuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="eriperentur">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="174">
+    <verb_lemma>trado1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="tradita">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="tradideris">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="traderet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="179">
+    <verb_lemma>numero1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="numerasti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="numerabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="numerabar">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="202">
+    <verb_lemma>saluto1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="salutavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="salutabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="212">
+    <verb_lemma>transeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="transiere">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="transiret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="transirent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="221">
+    <verb_lemma>sustineo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="sustinuisti">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="sustinebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="sustinebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="239">
+    <verb_lemma>circumfero1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="circumlatum">Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="circumferebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="suocircumferebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="252">
+    <verb_lemma>nascor1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="natus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="nascebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="nasceretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="276">
+    <verb_lemma>laudo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="laudavimus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="laudavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="laudabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="281">
+    <verb_lemma>appello1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="appellavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="appellabantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="285">
+    <verb_lemma>debeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="debita">Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="debebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="debebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="304">
+    <verb_lemma>respondeo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="respondit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="respondebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="306">
+    <verb_lemma>scio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="sciit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="sciebamus">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="sciebam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="334">
+    <verb_lemma>deicio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="deiecit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="deiectis">Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="deiciebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="351">
+    <verb_lemma>nuntio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="nuntiaverunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="nuntiaretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+        <verb_form total="1" value="nuntiaret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="354">
+    <verb_lemma>basio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="basiavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="basiavi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="basiarent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="475">
+    <verb_lemma>arguo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="arguta">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="arguto">Case=Abl|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="arguebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="476">
+    <verb_lemma>nego</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="negavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="negarunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="negabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="483">
+    <verb_lemma>excipio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="excepit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="exciperet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="511">
+    <verb_lemma>debeo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="debitum">Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="debebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="512">
+    <verb_lemma>laedo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="laesit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="laeserunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="laederet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="563">
+    <verb_lemma>divido</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="diviso">Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="divisit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="diuidebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="583">
+    <verb_lemma>excito</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="excitatus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="excitauit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="excitaretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="645">
+    <verb_lemma>creo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="creauit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="crearer">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="698">
+    <verb_lemma>nuntio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="nuntiata">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="nuntiarentur">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="885">
+    <verb_lemma>aperio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="aperuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="aperirem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="897">
+    <verb_lemma>judico1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="iudicavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="iudicarit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="iudicarem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="938">
+    <verb_lemma>exerceo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="exercuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="exercebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1048">
+    <verb_lemma>edoceo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="edocuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="edoctus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="edocebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1053">
+    <verb_lemma>incendo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="incensus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="incendebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="incenderent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="50">
+    <verb_lemma>voco1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="vocatos">Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="vocabant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="76">
+    <verb_lemma>concipio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="conceperit">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="conciperet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="93">
+    <verb_lemma>parco1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="pepercit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="parceret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="107">
+    <verb_lemma>jacto1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="iactatis">Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="iactaret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="116">
+    <verb_lemma>nolo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="noluit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="nollet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="181">
+    <verb_lemma>decido1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="decidit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="decidebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="197">
+    <verb_lemma>aufero1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="abstulerunt">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="auferretur">Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="224">
+    <verb_lemma>ostendo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ostendit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ostenderet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="243">
+    <verb_lemma>procedo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="processit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="procederet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="247">
+    <verb_lemma>suspicor1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="suspicatus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="suspicaretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="270">
+    <verb_lemma>torqueo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="tortae">Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="torqueret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="294">
+    <verb_lemma>exoro1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="exoratus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="exorabant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="308">
+    <verb_lemma>disco1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="didici">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="discebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="327">
+    <verb_lemma>repudio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="repudiata">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="repudiabat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="353">
+    <verb_lemma>reficio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="refecit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="reficeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="358">
+    <verb_lemma>pervenio1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="pervenero">Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="pervenirem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="364">
+    <verb_lemma>intellego1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="intellexi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="intellegebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="400">
+    <verb_lemma>malo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="malui">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="mallemus">Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="452">
+    <verb_lemma>nolo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="noluistis">Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="nollent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="458">
+    <verb_lemma>sustineo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="sustinuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="sustineret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="468">
+    <verb_lemma>extraho</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="extractum">Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="extraherent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="504">
+    <verb_lemma>addo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="addidit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="addebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="505">
+    <verb_lemma>pasco</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="pauit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="pascebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="515">
+    <verb_lemma>depono</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="deposui">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="deponeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="532">
+    <verb_lemma>intendo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="intendit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="intendebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="534">
+    <verb_lemma>indignor</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="indignata">Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="indignabantur">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="560">
+    <verb_lemma>intervenio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="intervenit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="interueniret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="561">
+    <verb_lemma>soleo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="solitae">Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="soleres">Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="584">
+    <verb_lemma>effugio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="effugit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="effugeret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="598">
+    <verb_lemma>audeo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ausus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="audebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="629">
+    <verb_lemma>affero</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="allata">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="adferebant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="650">
+    <verb_lemma>sumo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="sumpsit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="sumerent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="657">
+    <verb_lemma>sentio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="sensit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="sentiebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="666">
+    <verb_lemma>scribo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="scripsi">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="scribebam">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="717">
+    <verb_lemma>subsequor</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="subsecutus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="subsequebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="719">
+    <verb_lemma>approbo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="approbata">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="approbaret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="733">
+    <verb_lemma>cogo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="coegit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="cogebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="743">
+    <verb_lemma>repeto</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="repetitis">Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="repeteret">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="759">
+    <verb_lemma>rego</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="rexit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="regebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="766">
+    <verb_lemma>aio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ait">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="aiebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="769">
+    <verb_lemma>incipio</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="inceptam">Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="inciperet">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="819">
+    <verb_lemma>significo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="significata">Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="significarentur">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="854">
+    <verb_lemma>relinquo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="relicta">Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="relinqueretur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="862">
+    <verb_lemma>placeo</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="placuit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="placebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="880">
+    <verb_lemma>cano1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="cecinit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="canerent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="881">
+    <verb_lemma>volo2</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="volantis">Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="volabant">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="893">
+    <verb_lemma>praeparo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="praeparavit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="praepararetur">Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="908">
+    <verb_lemma>contendo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="contendisse">Tense=Past|VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="contendebatur">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="942">
+    <verb_lemma>erumpo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="erupit">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="erumperent">Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="961">
+    <verb_lemma>credo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="crediderim">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="credebat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1024">
+    <verb_lemma>moneo1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="monitus">Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="monerem">Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

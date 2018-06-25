@@ -1,0 +1,32 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Kurmanji" xquery="03_p-values.xq">
+  <case n="3">
+    <verb_lemma>hatin</verb_lemma>
+    <aspect-values>
+      <value label="Prog" total="10">
+        <verb_form total="5" value="dihate">Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="4" value="dihatin">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dihat">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="36">
+        <verb_form total="15" value="hate">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="13" value="hatine">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="nehatiye">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="hatiye">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nehatine">Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nehatime">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="12">
+    <verb_lemma>dan</verb_lemma>
+    <aspect-values>
+      <value label="Prog" total="9">
+        <verb_form total="8" value="dida">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="didayê">Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="da bûye">Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

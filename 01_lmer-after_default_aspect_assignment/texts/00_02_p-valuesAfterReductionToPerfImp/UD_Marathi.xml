@@ -1,0 +1,456 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Marathi" xquery="03_p-values.xq">
+  <case n="14">
+    <verb_lemma>येणे</verb_lemma>
+    <aspect-values p-value="6.334248e-05" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="48">
+        <verb_form total="18" value="आला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="13" value="आली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="6" value="येऊन">VerbForm=Conv</verb_form>
+        <verb_form total="3" value="आले">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="आले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="आलो">Gender=Masc|Number=Sing|Person=1|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="आलेला">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="आलास">Gender=Masc|Number=Sing|Person=2|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="आलेली">Gender=Fem|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="आली">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="16">
+        <verb_form total="11" value="येत">VerbForm=Part</verb_form>
+        <verb_form total="1" value="येते">Gender=Fem|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="येतो">Gender=Masc|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="येतो">Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="येते">Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="येतात">Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prosp" total="2">
+        <verb_form total="2" value="येणार">VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="3">
+    <verb_lemma>म्हणणे</verb_lemma>
+    <aspect-values p-value="1.153214e-11" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="57">
+        <verb_form total="38" value="म्हणाला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="12" value="म्हणाली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="5" value="म्हणून">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="म्हणाले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="म्हणाले">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="म्हणते">Gender=Fem|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="म्हणत">VerbForm=Part</verb_form>
+        <verb_form total="1" value="म्हणतो">Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="17">
+    <verb_lemma>जाणे</verb_lemma>
+    <aspect-values p-value="1.556804e-05" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="35">
+        <verb_form total="18" value="गेला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="5" value="जाऊन">VerbForm=Conv</verb_form>
+        <verb_form total="4" value="गेली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="_">Case=Obl|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="गेले">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="गेली">Gender=Neut|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="गेले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="3" value="जात">VerbForm=Part</verb_form>
+        <verb_form total="1" value="जाता">Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="जातो">Gender=Masc|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="जातोस">Gender=Masc|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="जाते">Gender=Fem|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prosp" total="1">
+        <verb_form total="1" value="जाणार">VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="12">
+    <verb_lemma>करणे</verb_lemma>
+    <aspect-values p-value="0.1443998" sign="no" more-frequent="Perf">
+      <value label="Hab" total="1">
+        <verb_form total="1" value="करणारा">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="15">
+        <verb_form total="7" value="करून">VerbForm=Conv</verb_form>
+        <verb_form total="2" value="केली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="केले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="केला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="केलेले">Gender=Masc|Number=Plur|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="केलीत">Gender=Neut|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="_">Case=Obl|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="8">
+        <verb_form total="3" value="करीत">VerbForm=Part</verb_form>
+        <verb_form total="3" value="करत">VerbForm=Part</verb_form>
+        <verb_form total="1" value="करते">Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="करतात">Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prosp" total="1">
+        <verb_form total="1" value="करणार">VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="6">
+    <verb_lemma>होणे</verb_lemma>
+    <aspect-values p-value="0.001745119" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="17">
+        <verb_form total="3" value="होऊन">VerbForm=Conv</verb_form>
+        <verb_form total="3" value="झाले">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="झाला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="झाले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="झाली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="झालेली">Gender=Fem|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="झालो">Gender=Masc|Number=Sing|Person=1|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="झाले">Gender=Fem|Number=Sing|Person=1|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="_">Case=Obl|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="झालो">Number=Plur|Person=1|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="3" value="होत">VerbForm=Part</verb_form>
+      </value>
+      <value label="Prosp" total="1">
+        <verb_form total="1" value="होणार">Person=3|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="69">
+    <verb_lemma>देणे</verb_lemma>
+    <aspect-values p-value="0.5637029" sign="no" more-frequent="Perf">
+      <value label="Perf" total="7">
+        <verb_form total="3" value="देऊन">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="दिली">Gender=Neut|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="दिले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="दिला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="दिली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="देते">Gender=Fem|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="देत">VerbForm=Part</verb_form>
+        <verb_form total="1" value="देतो">Gender=Masc|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="31">
+    <verb_lemma>दिसणे</verb_lemma>
+    <aspect-values p-value="0.03480848" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="2">
+        <verb_form total="1" value="दिसली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="दिसला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="9">
+        <verb_form total="4" value="दिसत">VerbForm=Part</verb_form>
+        <verb_form total="3" value="दिसतो">Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="दिसतात">Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="दिसतं">Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="50">
+    <verb_lemma>विचारणे</verb_lemma>
+    <aspect-values p-value="0.01141204" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="9">
+        <verb_form total="8" value="विचारले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="विचारले">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="विचारते">Gender=Fem|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="77">
+    <verb_lemma>मरणे</verb_lemma>
+    <aspect-values>
+      <value label="Hab" total="1">
+        <verb_form total="1" value="मरायचा">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="7">
+        <verb_form total="5" value="मेला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="_">Case=Obl|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="मेले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="मरत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="63">
+    <verb_lemma>सांगसांगणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="3" value="सांगितले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="सांगितला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="सांगून">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="सांगितली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="सांगतात">Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="7">
+    <verb_lemma>सांगणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="सांगितला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="सांगितली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="सांगून">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="सांगतो">Gender=Masc|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="सांगतो">Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="सांगतात">Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="52">
+    <verb_lemma>विकणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="विकून">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="विकली">Gender=Neut|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="विकतो">Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prosp" total="3">
+        <verb_form total="3" value="विकणार">VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="85">
+    <verb_lemma>रहाणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="राहिला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="राहिलेला">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="राहतो">Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prosp" total="3">
+        <verb_form total="3" value="राहणार">VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="11">
+    <verb_lemma>वाटणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="वाटले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="वाटली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="वाटते">Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="वाटत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="15">
+    <verb_lemma>चालणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="चाललीस">Gender=Fem|Number=Sing|Person=2|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="4" value="चालत">VerbForm=Part</verb_form>
+        <verb_form total="1" value="चालता">Case=Loc|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="34">
+    <verb_lemma>मारणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="मारल्या">Gender=Fem|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="मारले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="मारत">VerbForm=Part</verb_form>
+        <verb_form total="1" value="मारीत">VerbForm=Part</verb_form>
+      </value>
+      <value label="Prosp" total="1">
+        <verb_form total="1" value="मारणार">VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="45">
+    <verb_lemma>पहाणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="पाहून">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="पाहत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="61">
+    <verb_lemma>ऐकणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="ऐकून">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="ऐकले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="ऐकतो">Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="_">Case=Loc|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="27">
+    <verb_lemma>फोडणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="फोडला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="फोडले">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="फोडीत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="54">
+    <verb_lemma>मिळणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="मिळाले">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="मिळत">VerbForm=Part</verb_form>
+        <verb_form total="1" value="मिळता">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="59">
+    <verb_lemma>आणणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="आणून">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="आणले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="आणला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="आणतो">Gender=Masc|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="102">
+    <verb_lemma>सापडणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="सापडले">Gender=Masc|Number=Plur|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="सापडलास">Gender=Masc|Number=Sing|Person=2|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="सापडत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="13">
+    <verb_lemma>बोलणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="_">Case=Obl|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="बोलला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prosp" total="1">
+        <verb_form total="1" value="बोलणार">VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="22">
+    <verb_lemma>झोपणे</verb_lemma>
+    <aspect-values>
+      <value label="Hab" total="1">
+        <verb_form total="1" value="झोपे">Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="झोपला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="झोपले">Gender=Neut|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="46">
+    <verb_lemma>सोडणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="सोडून">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="सोडली">Gender=Fem|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prosp" total="1">
+        <verb_form total="1" value="सोडणार">VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="47">
+    <verb_lemma>धावणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="धावला">Gender=Masc|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="धावत">VerbForm=Part</verb_form>
+        <verb_form total="1" value="_">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="58">
+    <verb_lemma>काढणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="काढून">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="काढीत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="24">
+    <verb_lemma>वहाणे</verb_lemma>
+    <aspect-values>
+      <value label="Hab" total="1">
+        <verb_form total="1" value="वाहणाऱ्या">Case=Obl|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="वाहत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="91">
+    <verb_lemma>स्मरणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="स्मरून">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="स्मरतो">Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="97">
+    <verb_lemma>मोजणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="मोजून">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="मोजत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="100">
+    <verb_lemma>हसणे</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="हसून">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="हसत">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

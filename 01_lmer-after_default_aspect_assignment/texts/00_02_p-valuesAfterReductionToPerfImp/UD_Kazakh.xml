@@ -1,0 +1,465 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Kazakh" xquery="03_p-values.xq">
+  <case n="1">
+    <verb_lemma>де</verb_lemma>
+    <aspect-values p-value="3.14689e-11" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="47">
+        <verb_form total="45" value="деп">VerbForm=Conv</verb_form>
+        <verb_form total="2" value="деп">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="дей">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="62">
+    <verb_lemma>ал</verb_lemma>
+    <aspect-values p-value="0.01241933" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="13">
+        <verb_form total="9" value="алып">VerbForm=Conv</verb_form>
+        <verb_form total="4" value="алып">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="3" value="ала">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="10">
+    <verb_lemma>бар</verb_lemma>
+    <aspect-values p-value="0.7630246" sign="no" more-frequent="Perf">
+      <value label="Perf" total="6">
+        <verb_form total="6" value="барып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="4" value="бара">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="баратын">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="4">
+    <verb_lemma>бер</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="беріп">VerbForm=Conv</verb_form>
+        <verb_form total="2" value="беріп">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="4" value="бере">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="54">
+    <verb_lemma>дамы</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="дамып">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="дамып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="5" value="дами">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="9">
+    <verb_lemma>бол</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="болып">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="боп">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="боп">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="болатын">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="30">
+    <verb_lemma>тұр</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="тұрып">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="тұрып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="тұратын">VerbForm=Part</verb_form>
+        <verb_form total="1" value="тұра">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="тұра">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="15">
+    <verb_lemma>құр</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="2" value="құрып">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="құрылып">VerbForm=Cov|Voice=Pass</verb_form>
+        <verb_form total="1" value="құрып">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="құрылып">VerbForm=Conv|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="құрыла">VerbForm=Cov|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="72">
+    <verb_lemma>шық</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="шығып">VerbForm=Cov</verb_form>
+        <verb_form total="2" value="шығып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="шыға">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="75">
+    <verb_lemma>кел</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="келіп">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="келмей">Polarity=Neg|VerbForm=Conv</verb_form>
+        <verb_form total="1" value="келмей">Polarity=Neg|VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="келе">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="128">
+    <verb_lemma>қара</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="4" value="қарап">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="қарап">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="қарайтын">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="7">
+    <verb_lemma>өс</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="өсіп">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="өсе">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="өсетіндей">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="16">
+    <verb_lemma>отыр</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="отырып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="3" value="отыра">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="отыратын">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="69">
+    <verb_lemma>қаш</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="қашып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="қаша">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="қаша">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="175">
+    <verb_lemma>же</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="жеп">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="жемей">Polarity=Neg|VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="жейтін">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="26">
+    <verb_lemma>тап</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="тауып">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="табылатынын">Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger|Voice=Pass</verb_form>
+        <verb_form total="1" value="таба">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="34">
+    <verb_lemma>арт</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="артып">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="арта">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="арттыра">VerbForm=Conv</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="61">
+    <verb_lemma>көрсет</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="көрсетіп">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="көрсетіп">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="көрсетіліп">VerbForm=Cov|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="көрсете">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="79">
+    <verb_lemma>қайт</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="қайтіп">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="қайта">VerbForm=Conv</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="85">
+    <verb_lemma>біл</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="білінбей">Polarity=Neg|VerbForm=Cov|Voice=Pass</verb_form>
+        <verb_form total="1" value="біліп">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="біліп">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="білетін">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="118">
+    <verb_lemma>жет</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="жетіп">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="жете">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="134">
+    <verb_lemma>кір</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="кіріп">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="кіре">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="11">
+    <verb_lemma>ас</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="аспай">Polarity=Neg|VerbForm=Conv</verb_form>
+        <verb_form total="1" value="асып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="асыратын">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="40">
+    <verb_lemma>сал</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="салып">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="салынып">VerbForm=Conv|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="салына">VerbForm=Cov|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="65">
+    <verb_lemma>қорық</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="қорқып">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="қорықпай">Polarity=Neg|VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="қорықпайтын">Polarity=Neg|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="71">
+    <verb_lemma>айт</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="айтып">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="айтысып">VerbForm=Cov|Voice=Coop</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="айта">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="103">
+    <verb_lemma>ет</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="етіп">VerbForm=Conv</verb_form>
+        <verb_form total="1" value="етіп">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ете">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="110">
+    <verb_lemma>аш</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ашып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="ашылмайтын">Polarity=Neg|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="ашпай">Polarity=Neg|VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="115">
+    <verb_lemma>айнал</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="айналып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="айнала">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="142">
+    <verb_lemma>бұз</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="бұзып">VerbForm=Cov</verb_form>
+        <verb_form total="1" value="бұзылып">VerbForm=Conv|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="бұзатын">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="52">
+    <verb_lemma>арала</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="аралап">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="араласа">VerbForm=Cov|Voice=Coop</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="56">
+    <verb_lemma>өндір</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="өндіріп">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="өндірілетін">VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="80">
+    <verb_lemma>іш</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ішіп">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ішетін">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="92">
+    <verb_lemma>түс</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="түсіп">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="түсе">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="97">
+    <verb_lemma>жық</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="жығылмай">Polarity=Neg|VerbForm=Conv|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="жығатынын">Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="122">
+    <verb_lemma>шақыр</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="шақырып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="шақыра">VerbForm=Conv</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="129">
+    <verb_lemma>ұсын</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ұсынып">VerbForm=Conv</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ұсына">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="140">
+    <verb_lemma>қорла</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="қорлап">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="қорлайтындай">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="167">
+    <verb_lemma>істе</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="істеп">VerbForm=Cov</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="істей">VerbForm=Cov</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

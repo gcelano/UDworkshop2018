@@ -1,0 +1,134 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Buryat" xquery="03_p-values.xq">
+  <case n="2">
+    <verb_lemma>ерэ</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="14">
+        <verb_form total="7" value="ерээ">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="6" value="ерээд">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="ерээбди">Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Hab" total="1">
+        <verb_form total="1" value="ерэдэггүй">Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="5">
+    <verb_lemma>бай</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="6">
+        <verb_form total="2" value="байгаад">Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="байгааш">Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="байгаагүйб">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="байгааб">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="байба">Mood=Ind|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prog" total="2">
+        <verb_form total="2" value="байнабди">Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1">
+    <verb_lemma>хэ</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="хэлээгүй">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Rcp</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="хэбэ">Mood=Ind|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prog" total="1">
+        <verb_form total="1" value="хэнэбди">Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="10">
+    <verb_lemma>аба</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="абаба">Mood=Ind|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Hab" total="1">
+        <verb_form total="1" value="абадагби">Mood=Ind|Number=Sing|Person=1|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="14">
+    <verb_lemma>боло</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="болоогүй">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="болобо">Mood=Ind|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="24">
+    <verb_lemma>марта</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="мартаагүй">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Hab" total="2">
+        <verb_form total="2" value="мартадаггүй">Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="13">
+    <verb_lemma>хатар</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="хатарба">Mood=Ind|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prog" total="1">
+        <verb_form total="1" value="хатарнабди">Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="35">
+    <verb_lemma>хара</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="хараагүйб">Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Prog" total="1">
+        <verb_form total="1" value="харанабши">Mood=Ind|Number=Sing|Person=2|Tense=Aor|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="45">
+    <verb_lemma>ошо</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ошоогүй">Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Hab" total="1">
+        <verb_form total="1" value="ошодоггүй">Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="52">
+    <verb_lemma>үзэ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="үзэбэ">Mood=Ind|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Hab" total="1">
+        <verb_form total="1" value="үзэдэггүйб">Mood=Ind|Number=Sing|Person=1|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="59">
+    <verb_lemma>гара</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="гараба">Mood=Ind|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Hab" total="1">
+        <verb_form total="1" value="гарадаггүй">Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

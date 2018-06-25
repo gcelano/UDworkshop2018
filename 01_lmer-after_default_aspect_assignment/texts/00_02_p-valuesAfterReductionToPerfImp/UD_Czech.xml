@@ -1,0 +1,58 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Czech" xquery="03_p-values.xq">
+  <case n="127">
+    <verb_lemma>říci</verb_lemma>
+    <aspect-values p-value="0" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="řkouce">Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1517">
+        <verb_form total="1071" value="řekl">Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="169" value="říci">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="79" value="řekla">Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="38" value="řekli">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="34" value="říct">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="28" value="řekne">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="26" value="řekněme">Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="15" value="neřekl">Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="9" value="neřekla">Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="7" value="řeknou">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="řekneme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="7" value="řeklo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="řeknete">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="5" value="řeknu">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="řekněte">Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="neřeknou">Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="3" value="neřekne">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="řekni">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="neřekli">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="neřeknu">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="řekly">Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="neřeklo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2183">
+    <verb_lemma>napovídat</verb_lemma>
+    <aspect-values p-value="0.08955507" sign="no" more-frequent="Imp">
+      <value label="Imp" total="12">
+        <verb_form total="8" value="napovídá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="4" value="napovídají">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="napovídají">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="2" value="napovídá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2527">
+    <verb_lemma>sladit</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="sladit">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+      <value label="Perf" total="5">
+        <verb_form total="5" value="sladit">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

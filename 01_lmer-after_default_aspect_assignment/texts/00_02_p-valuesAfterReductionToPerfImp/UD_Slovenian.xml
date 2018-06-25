@@ -1,0 +1,55 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Slovenian" xquery="03_p-values.xq">
+  <case n="71">
+    <verb_lemma>misliti</verb_lemma>
+    <aspect-values p-value="9.189255e-15" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="1">
+        <verb_form total="1" value="misl">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="63">
+        <verb_form total="21" value="mislim">Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="11" value="mislil">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="6" value="mislijo">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="6" value="mislila">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="5" value="misli">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="4" value="mislili">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="3" value="mislimo">Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="misliti">VerbForm=Inf</verb_form>
+        <verb_form total="2" value="mislm">Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="mislilo">Gender=Neut|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="misl">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="539">
+    <verb_lemma>pasti</verb_lemma>
+    <aspect-values p-value="0.0001624408" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="17">
+        <verb_form total="7" value="padel">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="4" value="pade">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="padla">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="padli">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="padlo">Gender=Neut|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="padeš">Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="pasejo">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="329">
+    <verb_lemma>vleči</verb_lemma>
+    <aspect-values p-value="0.003892417" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="1">
+        <verb_form total="1" value="vlegel">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="11">
+        <verb_form total="3" value="vleče">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="vlekli">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="2" value="vlekla">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="vleči">VerbForm=Inf</verb_form>
+        <verb_form total="1" value="vlečemo">Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="vlekla">Gender=Neut|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

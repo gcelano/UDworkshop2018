@@ -1,0 +1,1383 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Urdu" xquery="03_p-values.xq">
+  <case n="3">
+    <verb_lemma>کر</verb_lemma>
+    <aspect-values p-value="2.095147e-168" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="1821">
+        <verb_form total="611" value="کیا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="371" value="کی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="281" value="کیا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="150" value="کی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="61" value="کیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="41" value="کی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="29" value="کیے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="29" value="کیے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="25" value="کی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="22" value="کیے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="17" value="کیا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="9" value="کرے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="7" value="کئے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="6" value="کریں">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="کئے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="کرے">Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="کیے">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="کریں">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="کیے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="کئے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="5" value="کئے">Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="5" value="کئے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="کیے">Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="4" value="کئے">VerbForm=Part</verb_form>
+        <verb_form total="4" value="کیے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="4" value="کیے">VerbForm=Part</verb_form>
+        <verb_form total="4" value="کئے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="کیے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="3" value="کئے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="کئے">Number=Plur|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="3" value="کیے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="کی">Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="3" value="کئے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="3" value="کئے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="3" value="کئے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="3" value="کئے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="کیے">Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="کریں">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کرے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کیے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کریں">VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="کئے">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کئے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کیے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="کیے">VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="کیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="2" value="کئے">Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کیے">Case=Acc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کیں">Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کر">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کی">Case=Acc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کیا">Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کیا">VerbForm=Part</verb_form>
+        <verb_form total="1" value="کی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کریں">Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کریں">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کی">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کی">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کر">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کیے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کیے">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کی">Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کیے">Case=Acc|Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کی">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کئے">Number=Plur|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کرنے">Case=Acc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کیے">Gender=Masc|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کئے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Gender=Masc|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Case=Acc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کریں">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کی">Case=Nom|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Number=Plur|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کریں">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کریں">Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیں">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کیے">Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کئے">Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کئے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کئے">Case=Acc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کئے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کئے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کرتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کئے">Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کئے">VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کئے">Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کیں">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کیں">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="491">
+        <verb_form total="202" value="کرتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="116" value="کرتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="48" value="کرتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="41" value="کرتے">VerbForm=Part</verb_form>
+        <verb_form total="29" value="کرتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="21" value="کرتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="15" value="کرتے">Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="9" value="کرتے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کرتی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کرتا">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرتیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرتے">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کرتا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کرتے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرتیں">Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرتے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرتے">Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="8">
+    <verb_lemma>کہہ</verb_lemma>
+    <aspect-values p-value="4.757041e-185" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="877">
+        <verb_form total="790" value="کہا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="36" value="کہا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="18" value="کہا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="18" value="کہا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="11" value="کہی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کہی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کہی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کہے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="12">
+        <verb_form total="8" value="کہتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کہتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کہتے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کہتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="17">
+    <verb_lemma>دے</verb_lemma>
+    <aspect-values p-value="1.616155e-63" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="475">
+        <verb_form total="173" value="دیا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="127" value="دی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="36" value="دی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="36" value="دیا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="12" value="دی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="12" value="دیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="11" value="دی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="5" value="دیے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="دے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="دیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="دیئے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="دیا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="3" value="دیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="3" value="دیئے">Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="دئیے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="دیے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="دی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="2" value="دئے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="2" value="دیئے">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="دیئے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیدی">Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیئے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیئے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دئے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دئے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دے">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیا">Case=Nom|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دی">Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دئے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دئے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیدی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیئے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیے">Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیے">Gender=Masc|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دئیے">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیں">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیے">Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دئے">Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دئے">Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دئے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="دئے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیئے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیتے">VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="79">
+        <verb_form total="16" value="دیتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="13" value="دیتے">VerbForm=Part</verb_form>
+        <verb_form total="10" value="دیتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="9" value="دیتے">Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="7" value="دیتے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="4" value="دیتے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="3" value="دیتے">Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="2" value="دیتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="دیتے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="دیتا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="دیتے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="دیتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیتے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیتی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیتے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیتا">Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیتے">Gender=Masc|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیئے">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="5">
+    <verb_lemma>ہو</verb_lemma>
+    <aspect-values p-value="4.232137e-16" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="348">
+        <verb_form total="113" value="ہوا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="96" value="ہوئی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="26" value="ہوئے">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="25" value="ہوئے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="12" value="ہوا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="10" value="ہوئیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="9" value="ہوئے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="8" value="ہوئی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="7" value="ہوئی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="ہوئے">Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="ہوئے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="ہوئی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="3" value="ہوئے">Number=Plur|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="3" value="ہوئے">Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="ہوئے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="ہوا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="ہوئے">Number=Plur|Person=2|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="ہوئے">VerbForm=Part</verb_form>
+        <verb_form total="2" value="ہوئے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئے">Number=Plur|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئیں">Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئے">Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="ہوا">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="ہوا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="ہوئے">Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="ہوئیں">Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئہی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئے">Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئ">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئی">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوئے">Number=Plur|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="ہوئے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="164">
+        <verb_form total="73" value="ہوتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="43" value="ہوتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="21" value="ہوتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="ہوتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="3" value="ہوتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="ہوتی">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="ہوتی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="ہوتا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="ہوتا">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="ہوتا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="ہوتے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="ہوتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="ہوتی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوتی">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="ہوتیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوتے">Gender=Masc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="ہوتا">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ہوتے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="7">
+    <verb_lemma>بتا</verb_lemma>
+    <aspect-values p-value="5.685407e-58" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="289">
+        <verb_form total="212" value="بتایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="29" value="بتائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="22" value="بتایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="6" value="بتائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="5" value="بتایا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="بتائی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="بتایا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="بتائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="بتائے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="بتائے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="بتائے">Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="بتائے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بتائے">Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="11">
+        <verb_form total="7" value="بتاتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="3" value="بتاتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="بتاتے">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="9">
+    <verb_lemma>رہ</verb_lemma>
+    <aspect-values p-value="5.052497e-18" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="152">
+        <verb_form total="43" value="رہے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="35" value="رہا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="27" value="رہی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="رہے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="رہے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="رہا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="رہے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="رہیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رہیں">Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رہے">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رہیں">Gender=Fem|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="2" value="رہیں">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رہی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="رہے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رہیں">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رہے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رہے">Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رہی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رہا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="رہے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="رہے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="رہیں">Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رہے">Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رہے">Gender=Masc|Number=Plur|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="34">
+        <verb_form total="11" value="رہتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="9" value="رہتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="رہتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="4" value="رہتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رہتے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رہتے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رہتا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="20">
+    <verb_lemma>آ</verb_lemma>
+    <aspect-values p-value="8.686061e-19" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="138">
+        <verb_form total="50" value="آیا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="20" value="آئی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="17" value="آئے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="9" value="آیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="9" value="آئے">VerbForm=Part</verb_form>
+        <verb_form total="7" value="آئیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="آئے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="آئے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="آئے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="آئے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="آئی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="آئے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="آئے">Gender=Masc|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="آیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="آیا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="آئی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="آئیں">Gender=Fem|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="آئے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="آئے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="آئی‌ں‌‌‌‌‌">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="25">
+        <verb_form total="8" value="آتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="آتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="آتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="آتے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="آتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="آتا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="آتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="آتے">Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="13">
+    <verb_lemma>رکھ</verb_lemma>
+    <aspect-values p-value="0.630954" sign="no" more-frequent="Perf">
+      <value label="Perf" total="81">
+        <verb_form total="24" value="رکھا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="18" value="رکھا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="7" value="رکھی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="7" value="رکھی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="رکھے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="4" value="رکھے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="رکھا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رکھا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="رکھی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="رکھے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رکھے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رکھا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="رکھی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رکھا">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رکھا">Gender=Masc|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="75">
+        <verb_form total="18" value="رکھتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="16" value="رکھتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="11" value="رکھتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="10" value="رکھتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="6" value="رکھتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="4" value="رکھتے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="رکھتے">VerbForm=Part</verb_form>
+        <verb_form total="2" value="رکھتے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رکھتیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رکھتے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="رکھتے">Gender=Masc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="رکھتی">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رکھتا">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="رکھتی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="41">
+    <verb_lemma>بنا</verb_lemma>
+    <aspect-values p-value="1.053471e-11" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="88">
+        <verb_form total="30" value="بنایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="14" value="بنایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="7" value="بنائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="بنایا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="بنائے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="بنائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="بنائے">Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="بنائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="بنائے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="بنا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="بنائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="بنائے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بنائے">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بنائے">Number=Plur|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="بنائیں">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بنائیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="بنائے">VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="بنے">Case=Nom|VerbForm=Part</verb_form>
+        <verb_form total="1" value="بنے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بنے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="بنائے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="بنا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بنائے">Number=Plur|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="18">
+        <verb_form total="6" value="بناتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="4" value="بناتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="4" value="بناتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بناتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بناتے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بناتے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="بناتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1">
+    <verb_lemma>لے</verb_lemma>
+    <aspect-values p-value="2.268475e-08" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="65">
+        <verb_form total="28" value="لیا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="10" value="لیا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="5" value="لیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="لی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="لے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="لی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="لیے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لئے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لیں">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لیے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لیا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="لئے">Case=Acc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لے">Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لیے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="لئے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لئے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لیے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="15">
+        <verb_form total="2" value="لیتے">Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="لیتے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="2" value="لیتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="لیتے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="لیتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لیتے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لیتی">VerbForm=Part</verb_form>
+        <verb_form total="1" value="لیتے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لیتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لیتے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لیتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="21">
+    <verb_lemma>لا</verb_lemma>
+    <aspect-values p-value="6.490901e-11" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="51">
+        <verb_form total="19" value="لایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="16" value="لایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="9" value="لائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="4" value="لائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لائیں">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لائے">Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کیا">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="لاتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لاتے">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="33">
+    <verb_lemma>مل</verb_lemma>
+    <aspect-values p-value="0.06329083" sign="no" more-frequent="Perf">
+      <value label="Perf" total="31">
+        <verb_form total="13" value="ملا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="13" value="ملی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ملا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ملیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ملے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="ملے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ملے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="18">
+        <verb_form total="8" value="ملتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="ملتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="ملتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="ملتی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ملتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="19">
+    <verb_lemma>پہنچ</verb_lemma>
+    <aspect-values p-value="0.001565402" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="30">
+        <verb_form total="8" value="پہنچا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="پہنچے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="پہنچی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="پہنچے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="پہنچایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچے">Number=Sing|Person=2|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچائے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچے">Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="پہنچے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="10">
+        <verb_form total="4" value="پہنچتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="پہنچتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="پہنچتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچتا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2">
+    <verb_lemma>کروا</verb_lemma>
+    <aspect-values p-value="6.249041e-05" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="32">
+        <verb_form total="8" value="کروایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="8" value="کروایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="3" value="کروائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کروائیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کروائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کروائے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="کروائے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کروائی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کروائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کروایا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کروائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کروائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="5" value="کرواتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کرواتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کرواتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="49">
+    <verb_lemma>پا</verb_lemma>
+    <aspect-values p-value="1.1351e-06" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="34">
+        <verb_form total="8" value="پایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="8" value="پائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="6" value="پایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="پائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="پائے">VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="پائے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="پائے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="پائے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پایا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پائی">Case=Acc|Gender=Fem|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="پائے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="پائی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="پاتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پاتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="پاتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="29">
+    <verb_lemma>جا</verb_lemma>
+    <aspect-values p-value="0.2367236" sign="no" more-frequent="Perf">
+      <value label="Perf" total="21">
+        <verb_form total="3" value="گئی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="گئی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="گئے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="گئے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="جانے">Case=Acc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="گیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="گیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="گیا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="گیا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="گئے">Gender=Masc|Person=3|Polite=Form|VerbForm=Part</verb_form>
+        <verb_form total="1" value="گئے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="گئے">Gender=Masc|Number=Plur|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="گئے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="جائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="14">
+        <verb_form total="4" value="جانتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="جاتے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="جاتے">VerbForm=Part</verb_form>
+        <verb_form total="2" value="جاتے">Echo=Rdp|VerbForm=Part</verb_form>
+        <verb_form total="1" value="جاتے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="جاتے">Gender=Masc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="جاتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="جاتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="6">
+    <verb_lemma>چل</verb_lemma>
+    <aspect-values p-value="0.006069972" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="25">
+        <verb_form total="7" value="چلا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="چلے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="چلے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="چلی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلے">Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="چلے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="چلا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="9">
+        <verb_form total="3" value="چلتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="چلتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="2" value="چلتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلتے">Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="10">
+    <verb_lemma>دیکھ</verb_lemma>
+    <aspect-values p-value="0.07709987" sign="no" more-frequent="Perf">
+      <value label="Perf" total="21">
+        <verb_form total="4" value="دیکھا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="دیکھی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="دیکھی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="دیکھا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="دیکھا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیکھی">Gender=Fem|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیکھی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیکھا">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیکھا">Gender=Masc|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیکھیں">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دیکھے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیکھے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیکھی">Gender=Fem|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="11">
+        <verb_form total="2" value="دیکھتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="2" value="دیکھتے">Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیکھتے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دیکھتے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیکھتے">Case=Acc|Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیکھتے">Case=Nom|Gender=Masc|Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیکھتے">Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیکھتے">Number=Sing|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دیکھتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="73">
+    <verb_lemma>لگا</verb_lemma>
+    <aspect-values p-value="4.302779e-06" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="29">
+        <verb_form total="14" value="لگایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="لگائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="لگائے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="لگایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="لگائے">Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لگائے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="لگائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="لگائے">Number=Plur|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="لگاتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لگاتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="11">
+    <verb_lemma>فرما</verb_lemma>
+    <aspect-values p-value="0.02845974" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="21">
+        <verb_form total="15" value="فرمایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="فرمائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="فرمایا">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="فرمائے">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="فرمایا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="9">
+        <verb_form total="7" value="فرماتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="فرماتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="فرماتے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="48">
+    <verb_lemma>بن</verb_lemma>
+    <aspect-values p-value="9.63509e-05" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="25">
+        <verb_form total="7" value="بنا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="6" value="بنی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="بنے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="بنا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="بنے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بنا">VerbForm=Part</verb_form>
+        <verb_form total="1" value="بنے">Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بنا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="بنے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بنا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="بنتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="بنتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="27">
+    <verb_lemma>سمجھ</verb_lemma>
+    <aspect-values p-value="0.705457" sign="no" more-frequent="Perf">
+      <value label="Perf" total="15">
+        <verb_form total="6" value="سمجھا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="سمجھا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="سمجھے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="سمجھا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="سمجھے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="سمجھے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="13">
+        <verb_form total="7" value="سمجھتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="سمجھتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="سمجھتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="سمجھتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="سمجھتی">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="58">
+    <verb_lemma>لگ</verb_lemma>
+    <aspect-values p-value="0.001069213" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="22">
+        <verb_form total="11" value="لگا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="5" value="لگی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="لگا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="لگے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لگائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لگا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="لگا">VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="4" value="لگتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="لگتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="57">
+    <verb_lemma>چلا</verb_lemma>
+    <aspect-values p-value="8.769942e-05" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="23">
+        <verb_form total="5" value="چلائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="چلایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="چلایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="چلائی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="2" value="چلائے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلائیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلائے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="چلائی">Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="چلائے">Case=Acc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="چلا">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلائی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چلائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="چلاتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="چلاتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="46">
+    <verb_lemma>چاہ</verb_lemma>
+    <aspect-values p-value="0.0002747268" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="1">
+        <verb_form total="1" value="چاہا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="16">
+        <verb_form total="5" value="چاہتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="چاہتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="چاہتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="چاہتے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چاہتا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="چاہتے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چاہتے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="23">
+    <verb_lemma>کھیل</verb_lemma>
+    <aspect-values p-value="0.01241933" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="13">
+        <verb_form total="8" value="کھیلے">Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کھیلے">Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کھیلے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="کھیلا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="کھیلا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کھیلا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="کھیلتے">Number=Plur|Person=3|VerbForm=Part</verb_form>
+        <verb_form total="1" value="کھیلتے">VerbForm=Part</verb_form>
+        <verb_form total="1" value="کھیلتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="4">
+    <verb_lemma>پڑ</verb_lemma>
+    <aspect-values p-value="0.007526315" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="12">
+        <verb_form total="4" value="پڑے">Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="پڑے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="پڑے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="پڑا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پڑےگا">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پڑا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="پڑتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پڑتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="22">
+    <verb_lemma>ڈال</verb_lemma>
+    <aspect-values p-value="1" sign="no" more-frequent="Imp">
+      <value label="Perf" total="7">
+        <verb_form total="3" value="ڈالی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="ڈالا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ڈالی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ڈالی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="3" value="ڈالتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="ڈالتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ڈالتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ڈالتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="ڈالتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="24">
+    <verb_lemma>دکھا</verb_lemma>
+    <aspect-values p-value="0.03250944" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="11">
+        <verb_form total="5" value="دکھائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="4" value="دکھایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="دکھائے">Case=Acc|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دکھائی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="دکھاتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دکھاتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دکھاتے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="74">
+    <verb_lemma>کرا</verb_lemma>
+    <aspect-values p-value="0.05220364" sign="no" more-frequent="Perf">
+      <value label="Perf" total="10">
+        <verb_form total="4" value="کرایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="کرائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرایا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرائیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="کرائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="3" value="کراتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="18">
+    <verb_lemma>سنا</verb_lemma>
+    <aspect-values p-value="0.003892417" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="11">
+        <verb_form total="6" value="سنائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="سنائی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="سنایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="سنائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="سنائے">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="سناتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="81">
+    <verb_lemma>بڑھ</verb_lemma>
+    <aspect-values p-value="0.08326452" sign="no" more-frequent="Imp">
+      <value label="Perf" total="3">
+        <verb_form total="2" value="بڑھا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بڑھا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="9">
+        <verb_form total="3" value="بڑھتی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="3" value="بڑھتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="بڑھتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="53">
+    <verb_lemma>پڑھ</verb_lemma>
+    <aspect-values p-value="0.006655605" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="10">
+        <verb_form total="3" value="پڑھا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="3" value="پڑھی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پڑھے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پڑھائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پڑھوائیں">Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پڑھا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="پڑھتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="32">
+    <verb_lemma>پہنچا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="3" value="پہنچایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچا">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچائیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="پہنچاتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچاتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="66">
+    <verb_lemma>گزر</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="گزرا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="گزرے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="6">
+        <verb_form total="3" value="گزرتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="گزرتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="گزرتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="گزرتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="47">
+    <verb_lemma>اٹھا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="4" value="اٹھایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="اٹھائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="اٹھایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="اٹھاتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="اٹھاتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="50">
+    <verb_lemma>جان</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="جانے">Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="3" value="جانتے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="جانتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="جانتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="جانتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="132">
+    <verb_lemma>اٹھ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="3" value="اٹھا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="اٹھایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="اٹھایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="اٹھتا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="59">
+    <verb_lemma>چھوڑ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="2" value="چھوڑے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="2" value="چھوڑا">VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چھوڑا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="چھوڑی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="چھوڑتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="83">
+    <verb_lemma>بگڑ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="بگڑے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+        <verb_form total="1" value="بگڑی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="بگڑے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="بگڑتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بگڑتی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="بگڑتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="30">
+    <verb_lemma>جیت</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="2" value="جیتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="جیتیں">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="جیتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="جیتے">Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="جیتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="52">
+    <verb_lemma>سوچ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="سوچا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="سوچتے">Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="سوچتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="104">
+    <verb_lemma>سونپ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="4" value="سونپی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="سونپا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="سونپتے">Case=Acc|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="137">
+    <verb_lemma>روک</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="روکا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="2" value="روکے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="روکتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="157">
+    <verb_lemma>پہونچ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="1" value="پہونچا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہونچا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہنچے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="پہونچیں">Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="پہونچتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="25">
+    <verb_lemma>بدل</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="بدلا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="بدلتی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بدلتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="بدلتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="64">
+    <verb_lemma>سک</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="سکی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="سکے">Number=Sing|Person=3|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="سکتا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="سکتی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="70">
+    <verb_lemma>سن</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="سنی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</verb_form>
+        <verb_form total="1" value="سنی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="سنتے">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="سنتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="95">
+    <verb_lemma>دلوا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="دلوائے">Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="دلوائی">Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="دلوایا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="دلواتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="154">
+    <verb_lemma>بول</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="بولی">Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="بولتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بولتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="97">
+    <verb_lemma>برسا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="برسائے">Number=Plur|VerbForm=Part|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="برساتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="101">
+    <verb_lemma>بھر</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="بھرے">Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+        <verb_form total="1" value="بھری">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="بھرتی">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="112">
+    <verb_lemma>مان</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="مانا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="مانتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="163">
+    <verb_lemma>ابھر</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ابھرا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="ابھرتے">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+        <verb_form total="1" value="ابھرتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="195">
+    <verb_lemma>ٹکرا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ٹکرائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="ٹکراتی">Gender=Fem|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="26">
+    <verb_lemma>خرید</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="خریدا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="خریدتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="65">
+    <verb_lemma>کہلا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="کہلائے">VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="کہلاتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="88">
+    <verb_lemma>اپنا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="اپنائے">Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="اپناتے">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="100">
+    <verb_lemma>لوٹ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="لوٹی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="لوٹتے">Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="108">
+    <verb_lemma>مر</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="مرے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="مرتے">Case=Acc|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="115">
+    <verb_lemma>گر</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="گرا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="گرتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="118">
+    <verb_lemma>جوڑ</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="جوڑا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="جوڑتی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="119">
+    <verb_lemma>اتر</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="اتری">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="اترتا">Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="125">
+    <verb_lemma>کھو</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="کھویا">Gender=Masc|Number=Sing|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="کھوتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="150">
+    <verb_lemma>مسکرا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="مسکرائے">Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="مسکراتے">VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="153">
+    <verb_lemma>اڑا</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="اڑائی">Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="اڑاتے">Gender=Masc|Number=Plur|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="183">
+    <verb_lemma>گذر</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="گزرا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="گذرتا">Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

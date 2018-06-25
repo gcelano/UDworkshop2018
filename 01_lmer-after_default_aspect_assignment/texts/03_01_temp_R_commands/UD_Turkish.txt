@@ -1,0 +1,1 @@
+UD_Turkish=read.table('/Users/mycomputer/Desktop/UDWorkshop2018/texts/02_calculate_IC_for_01table/UD_Turkish.txt',header=T,comment.char='');attach(UD_Turkish);library(lme4);library(lmerTest);DEFAULT=as.factor(DEFAULT);summary(lmer(CHAR_NUMBER~DEFAULT+FREQUENCY+(1|LEMMA)))

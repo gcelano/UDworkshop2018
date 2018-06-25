@@ -1,0 +1,1 @@
+UD_Polish=read.table('/Users/mycomputer/Desktop/UDWorkshop2018/texts/02_calculate_IC_for_01table/UD_Polish.txt',header=T,comment.char='');attach(UD_Polish);library(lme4);library(lmerTest);DEFAULT=as.factor(DEFAULT);summary(lmer(CHAR_NUMBER~DEFAULT+FREQUENCY+(1|LEMMA)))

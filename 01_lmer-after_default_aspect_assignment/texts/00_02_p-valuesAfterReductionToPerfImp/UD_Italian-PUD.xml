@@ -1,0 +1,289 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Italian-PUD" xquery="03_p-values.xq">
+  <case n="10">
+    <verb_lemma>venire</verb_lemma>
+    <aspect-values p-value="5.534327e-06" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="11">
+        <verb_form total="7" value="veniva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="3" value="venivano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="venivano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="45">
+        <verb_form total="29" value="venne">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="15" value="vennero">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="venne">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1">
+    <verb_lemma>essere</verb_lemma>
+    <aspect-values p-value="0.0001563527" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="12">
+        <verb_form total="5" value="era">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="3" value="era">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="erano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="2" value="erano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="39">
+        <verb_form total="27" value="fu">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="8" value="furono">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="2" value="fu">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="furono">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2">
+    <verb_lemma>avere</verb_lemma>
+    <aspect-values p-value="0.04122683" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="17">
+        <verb_form total="10" value="aveva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="7" value="avevano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="7">
+        <verb_form total="6" value="ebbe">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="ebbero">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="8">
+    <verb_lemma>diventare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="diventavano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="diventava">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="6">
+        <verb_form total="5" value="diventò">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="diventarono">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="4">
+    <verb_lemma>trovare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="5">
+        <verb_form total="3" value="trovavano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="trovava">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="trovò">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="58">
+    <verb_lemma>portare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="portava">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="5">
+        <verb_form total="5" value="portò">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="34">
+    <verb_lemma>permettere</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="permettevano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="permise">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="permisero">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="102">
+    <verb_lemma>vivere</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="vivevano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="viveva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="visse">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="103">
+    <verb_lemma>fare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="faceva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="fece">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="fecero">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="19">
+    <verb_lemma>lavorare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="lavorava">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="lavorò">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="21">
+    <verb_lemma>morire</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="moriva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="morì">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="26">
+    <verb_lemma>dire</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="dicevo">Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="diceva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="disse">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="30">
+    <verb_lemma>tornare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="tornava">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="tornò">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="tornarono">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="32">
+    <verb_lemma>continuare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="continuava">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="continuò">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="78">
+    <verb_lemma>considerare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="3">
+        <verb_form total="3" value="considerava">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="considerarono">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="23">
+    <verb_lemma>vedere</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="vedevamo">Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="vedeva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="vidi">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="35">
+    <verb_lemma>attraversare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="attraversavano">Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="attraversarono">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="attraversò">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="72">
+    <verb_lemma>rimanere</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="rimaneva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="rimase">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="105">
+    <verb_lemma>volere</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="voleva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="volevano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="vollero">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="51">
+    <verb_lemma>aprire</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="apriva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="aprirono">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="69">
+    <verb_lemma>raggiungere</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="raggiungeva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="raggiunse">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="70">
+    <verb_lemma>rendere</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="rendeva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="rese">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="73">
+    <verb_lemma>visitare</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="visitavano">Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="visitò">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="191">
+    <verb_lemma>stabilire</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="stabiliva">Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="stabilirono">Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

@@ -1,0 +1,59 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Belarusian" xquery="03_p-values.xq">
+  <case n="171">
+    <verb_lemma>заклікаць</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="заклікалі">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="заклікае">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="4">
+        <verb_form total="4" value="заклікаў">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="153">
+    <verb_lemma>падаць</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="падаць">VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="падаў">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+        <verb_form total="1" value="падала">Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="129">
+    <verb_lemma>уключаць</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="уключае">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="уключаць">Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="255">
+    <verb_lemma>прапанаваць</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="прапануецца">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="прапанавалі">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="342">
+    <verb_lemma>канстатаваць</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="канстатаваў">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="канстатаваць">VerbForm=Inf|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

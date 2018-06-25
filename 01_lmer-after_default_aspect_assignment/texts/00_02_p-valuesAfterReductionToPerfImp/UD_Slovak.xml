@@ -1,0 +1,756 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Slovak" xquery="03_p-values.xq">
+  <case n="18">
+    <verb_lemma>ísť</verb_lemma>
+    <aspect-values p-value="4.235917e-34" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="157">
+        <verb_form total="44" value="ide">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="19" value="ísť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="10" value="išiel">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="8" value="poď">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="7" value="išla">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="7" value="išlo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="7" value="išli">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="6" value="šiel">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="pôjde">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="4" value="pôjdeme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="išli">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="idú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="idem">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="ideme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="nejde">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="pôjdem">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="šlo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="ideš">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="poďme">Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="pôjde">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nepôjdu">Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="pôjdu">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nepôjdem">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="choď">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="pôjdem">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nešiel">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="išli">Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nepôjdeš">Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nešlo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="poďme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nejdeme">Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nejdem">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="poďte">Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="išli">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="3">
+        <verb_form total="1" value="poďte">Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="ideme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="šiel">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="33">
+    <verb_lemma>prísť</verb_lemma>
+    <aspect-values p-value="3.511493e-26" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="príde">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="115">
+        <verb_form total="26" value="prišiel">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="19" value="prišla">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="15" value="prišli">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="8" value="prišiel">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="8" value="prísť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="7" value="príde">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="6" value="prišlo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="prišli">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="neprišla">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="neprišiel">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="prídem">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="prídeme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="neprídu">Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nepríde">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="prišli">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="neprídeš">Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="neprídem">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="príď">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="neprídeš">Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="prišli">Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="prišli">Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="neprišli">Gender=Fem|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="42">
+    <verb_lemma>stať</verb_lemma>
+    <aspect-values p-value="1.594134e-25" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="stáva">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="112">
+        <verb_form total="27" value="stal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="22" value="stalo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="16" value="stala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="12" value="stať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="11" value="nestalo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="7" value="stal">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="stane">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="stali">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="stali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="stali">Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="stali">Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="stali">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="stanete">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nestanú">Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="stanú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="24">
+    <verb_lemma>dať</verb_lemma>
+    <aspect-values p-value="0.01161689" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="4">
+        <verb_form total="2" value="nedalo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nedajú">Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="15">
+        <verb_form total="4" value="dal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="dala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="dali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="dal">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dám">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dali">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nedala">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="69">
+        <verb_form total="25" value="dal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="7" value="dali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="dá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="5" value="dala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="dať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="4" value="daj">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="dalo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="nedalo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="nedá">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="nedajú">Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="dám">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dal">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dali">Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dali">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nedala">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nedal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nedáte">Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="44">
+    <verb_lemma>poznať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="38">
+        <verb_form total="7" value="poznal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="6" value="pozná">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="4" value="poznám">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="4" value="nepoznal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="poznala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="poznáte">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="nepoznali">Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="nepozná">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="poznať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="poznali">Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="poznali">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="poznáš">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nepoznám">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="poznáme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="poznali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="19">
+        <verb_form total="4" value="poznala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="poznal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="poznám">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="nepoznám">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="poznajú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="nepoznal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="poznali">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="poznať">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="21">
+    <verb_lemma>vytvoriť</verb_lemma>
+    <aspect-values p-value="8.730357e-11" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="vytvorilo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="45">
+        <verb_form total="17" value="vytvorí">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="8" value="vytvoriť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="6" value="vytvoril">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="vytvorila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="vytvoria">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="vytvorili">Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vytvorilo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vytvorí">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="vytvoril">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vytvoríme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="vytvorili">Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vytvorili">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="171">
+    <verb_lemma>vziať</verb_lemma>
+    <aspect-values p-value="1.456022e-08" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="vezmeš">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="35">
+        <verb_form total="13" value="vzal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="9" value="vzala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="vziať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="2" value="vezmi">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="vezmem">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="vzali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vezmeš">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="vzalo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="550">
+    <verb_lemma>počuť</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="počula">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="34">
+        <verb_form total="10" value="počul">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="počuť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="3" value="nepočula">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="nepočul">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="počuješ">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="počula">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="počuli">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="počujem">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="počulo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="počuli">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="počujete">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="počuje">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="69">
+    <verb_lemma>pustiť</verb_lemma>
+    <aspect-values p-value="1.137273e-07" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="pustite">Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="31">
+        <verb_form total="9" value="pustil">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="pustila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="pusť">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="pustiť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="3" value="pustili">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="pustite">Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="pustili">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="pusti">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nepustí">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="pustíš">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="pustil">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="87">
+    <verb_lemma>uvidieť</verb_lemma>
+    <aspect-values p-value="1.903182e-07" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="uvidela">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="30">
+        <verb_form total="13" value="uvidel">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="uvidela">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="neuvidím">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="uvidíme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="uvidia">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="uvidíš">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="uvidím">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="uvidíte">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="265">
+    <verb_lemma>pomôcť</verb_lemma>
+    <aspect-values p-value="1.903182e-07" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="pomôžem">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="30">
+        <verb_form total="7" value="pomôcť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="4" value="pomohol">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="pomôžu">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="pomohli">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="pomôžem">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="pomohla">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="pomôže">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="nepomohlo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nepomôže">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="pomohli">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nepomôžeš">Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="pomôžeš">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="pomôž">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="519">
+    <verb_lemma>venovať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="venovať">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+      <value label="Imp,Perf" total="30">
+        <verb_form total="11" value="venovať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="8" value="venoval">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="venuje">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="nevenoval">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="venujem">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nevenuje">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nevenovala">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="venovala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="venovali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="251">
+    <verb_lemma>trvať</verb_lemma>
+    <aspect-values p-value="3.186355e-07" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="29">
+        <verb_form total="8" value="trvalo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="6" value="trvá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="6" value="netrvalo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="trvala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="trval">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="trvať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="netrvá">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="netrvala">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="trvalo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="94">
+    <verb_lemma>vyzerať</verb_lemma>
+    <aspect-values p-value="1.499876e-06" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="26">
+        <verb_form total="8" value="vyzerá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="vyzeráš">Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="vyzeralo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="vyzeral">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="vyzerala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="vyzerajú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nevyzerá">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nevyzerám">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nevyzerajú">Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="vyzerať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="vyzeral">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="vyzeráte">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="575">
+    <verb_lemma>stratiť</verb_lemma>
+    <aspect-values p-value="2.516513e-06" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="stratí">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="25">
+        <verb_form total="11" value="stratil">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="stratila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="stratili">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="stratilo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="stratí">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nestratila">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="stratili">Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="stratíte">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="288">
+    <verb_lemma>odpovedať</verb_lemma>
+    <aspect-values p-value="0.7815113" sign="no" more-frequent="Perf">
+      <value label="Imp" total="6">
+        <verb_form total="2" value="odpovedal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="odpovedať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="odpovedá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="odpovedalo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="odpovedajú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="7">
+        <verb_form total="2" value="neodpovedal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="odpovedala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="neodpovedala">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="odpovedať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="neodpovedali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="11">
+        <verb_form total="4" value="odpovedala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="neodpovedal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="odpovedať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="odpovedal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="573">
+    <verb_lemma>počúvať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="23">
+        <verb_form total="8" value="počúval">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="5" value="nepočúval">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="počúvať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="3" value="počúvala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="počúvajú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="počúvaj">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="počúvali">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="1">
+        <verb_form total="1" value="počúvať">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="271">
+    <verb_lemma>hodiť</verb_lemma>
+    <aspect-values p-value="0.002859938" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="3">
+        <verb_form total="1" value="nehodilo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="hodilo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="hodila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="16">
+        <verb_form total="10" value="hodil">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="hodila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="hodili">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="hodiť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="hodili">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="53">
+    <verb_lemma>pochádzať</verb_lemma>
+    <aspect-values p-value="0.0001624408" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="17">
+        <verb_form total="7" value="pochádza">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="pochádzala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="3" value="pochádzal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="pochádzajú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="pochádzali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="pochádzal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="172">
+    <verb_lemma>dovoliť</verb_lemma>
+    <aspect-values p-value="0.0002747268" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="nedovolila">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="16">
+        <verb_form total="5" value="dovoliť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="2" value="dovolil">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dovoľ">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dovolím">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nedovolím">Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dovolila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nedovolila">Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nedovolí">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dovolíme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dovoľte">Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="nedovolili">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="301">
+    <verb_lemma>slúžiť</verb_lemma>
+    <aspect-values p-value="0.000789113" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="14">
+        <verb_form total="3" value="slúži">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="slúžiť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="3" value="slúžil">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="slúžili">Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="slúžili">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="slúžia">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="slúžil">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="slúžili">Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1116">
+    <verb_lemma>trápiť</verb_lemma>
+    <aspect-values p-value="0.000789113" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="14">
+        <verb_form total="2" value="trápilo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="trápiť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="2" value="trápi">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="trápil">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="trápila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="netrápil">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="trápili">Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="netrápi">Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="netráp">Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="trápili">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="netrápilo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="netráp">Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="55">
+    <verb_lemma>dávať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="13">
+        <verb_form total="4" value="dáva">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="3" value="dával">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dávať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="dávajú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dávala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nedávalo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dávam">Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="dávali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="1">
+        <verb_form total="1" value="dávajte">Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="244">
+    <verb_lemma>vymyslieť</verb_lemma>
+    <aspect-values p-value="0.001340641" sign="yes" more-frequent="Perf">
+      <value label="Imp" total="1">
+        <verb_form total="1" value="vymyslíme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="13">
+        <verb_form total="6" value="vymyslel">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="4" value="vymyslieť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="2" value="vymyslíme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="vymyslela">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="516">
+    <verb_lemma>diať</verb_lemma>
+    <aspect-values p-value="0.006655605" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="10">
+        <verb_form total="9" value="deje">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="diali">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="nedialo">Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="192">
+    <verb_lemma>jesť</verb_lemma>
+    <aspect-values p-value="0.01141204" sign="yes" more-frequent="Imp">
+      <value label="Imp" total="9">
+        <verb_form total="2" value="jeme">Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="jesť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="2" value="jedli">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="jedli">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="jedia">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="nejedz">Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="58">
+    <verb_lemma>baviť</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="8">
+        <verb_form total="2" value="bavila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="bavíte">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="bavilo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="bavme">Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="baviť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="bavia">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="bavili">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="878">
+    <verb_lemma>sústrediť</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="sústredil">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="7">
+        <verb_form total="3" value="sústredil">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="2" value="sústrediť">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="sústredila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="sústreďte">Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="855">
+    <verb_lemma>zodpovedať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="zodpovedajú">Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="zodpovedali">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="zodpovedať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="zodpovedal">Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="zodpovedať">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1976">
+    <verb_lemma>obzerať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="5">
+        <verb_form total="3" value="obzerala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="obzerá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="obzeral">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="obzerala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="400">
+    <verb_lemma>preberať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="preberal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="preberali">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="preberali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="preberá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="890">
+    <verb_lemma>obliekať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="obliekala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="obliekať">Polarity=Pos|VerbForm=Inf</verb_form>
+        <verb_form total="1" value="obliekal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="obliekate">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="obliekala">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1107">
+    <verb_lemma>dopadať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="dopadali">Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dopadalo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="dopadať">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="dopadalo">Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1509">
+    <verb_lemma>predpovedať</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="predpovedali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="3">
+        <verb_form total="2" value="predpovedal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="nepredpovedal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1533">
+    <verb_lemma>vyčítať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="vyčítal">Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="3">
+        <verb_form total="2" value="vyčítali">Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="vyčíta">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="252">
+    <verb_lemma>potrvať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="potrvá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="potrvá">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="674">
+    <verb_lemma>zabaliť</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="zabalíte">Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="zabalila">Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+        <verb_form total="1" value="zabalili">Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="981">
+    <verb_lemma>poukazovať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="poukazuje">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="poukazovali">Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="228">
+    <verb_lemma>reprezentovať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="reprezentovať">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+      <value label="Imp,Perf" total="1">
+        <verb_form total="1" value="reprezentuje">Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1483">
+    <verb_lemma>orientovať</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="orientovať">Polarity=Pos</verb_form>
+      </value>
+      <value label="Imp,Perf" total="1">
+        <verb_form total="1" value="orientovať">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2369">
+    <verb_lemma>pomstiť</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="pomstili">Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part</verb_form>
+      </value>
+      <value label="Imp,Perf" total="1">
+        <verb_form total="1" value="pomstiť">Polarity=Pos|VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

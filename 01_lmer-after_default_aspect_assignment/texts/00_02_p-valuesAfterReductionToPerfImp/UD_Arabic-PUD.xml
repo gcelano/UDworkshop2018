@@ -1,0 +1,2045 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Arabic-PUD" xquery="03_p-values.xq">
+  <case n="14">
+    <verb_lemma>kan-u_1</verb_lemma>
+    <aspect-values p-value="8.058935e-12" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="139">
+        <verb_form total="77" value="كان">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="48" value="كانت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="11" value="كانوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="كنت">Gender=Masc|Number=Sing|Person=2|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="كانتا">Gender=Fem|Number=Dual|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="كنت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="46">
+        <verb_form total="11" value="يكن">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="5" value="تكون">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="5" value="يكون">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="4" value="يكون">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="4" value="يكون">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="4" value="تكون">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="3" value="يكون">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="3" value="تكن">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="تكون">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يكونون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="نكون">Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="أكن">Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تكن">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تكون">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="8">
+    <verb_lemma>qal-u_1</verb_lemma>
+    <aspect-values p-value="0.0741499" sign="no" more-frequent="Perf">
+      <value label="Perf" total="33">
+        <verb_form total="21" value="قال">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="11" value="قالت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="قيل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="20">
+        <verb_form total="10" value="يقول">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="7" value="تقول">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تقول">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يقال">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="نقل">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="42">
+    <verb_lemma>bada&gt;-a_1</verb_lemma>
+    <aspect-values p-value="0.04819349" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="21">
+        <verb_form total="11" value="بدأت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="10" value="بدأ">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="10">
+        <verb_form total="5" value="تبدأ">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="يبدأ">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="يبدأ">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تبدأ">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="145">
+    <verb_lemma>ead-u_1</verb_lemma>
+    <aspect-values p-value="0.2752335" sign="no" more-frequent="Imp">
+      <value label="Perf" total="8">
+        <verb_form total="4" value="عاد">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="3" value="عادت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="عدنا">Number=Plur|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="13">
+        <verb_form total="5" value="يعود">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="3" value="تعود">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="تعد">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="يعود">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="نعود">Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="134">
+    <verb_lemma>zahar-a_1</verb_lemma>
+    <aspect-values p-value="0.3457786" sign="no" more-frequent="Perf">
+      <value label="Perf" total="11">
+        <verb_form total="7" value="ظهرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="4" value="ظهر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="2" value="يظهر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="تظهر">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="تظهر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يظهر">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="89">
+    <verb_lemma>tam~-i_1</verb_lemma>
+    <aspect-values p-value="0.007632882" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="14">
+        <verb_form total="13" value="تم">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="يتم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يتم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="107">
+    <verb_lemma>earaf-i_1</verb_lemma>
+    <aspect-values p-value="0.1967056" sign="no" more-frequent="Imp">
+      <value label="Perf" total="5">
+        <verb_form total="1" value="عرفوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="عرف">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="عرفت">Number=Sing|Person=2|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="عرفت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="عرف">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="10">
+        <verb_form total="3" value="أعرف">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="3" value="يعرف">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="2" value="تعرف">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="أعرف">Mood=Jus|Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تعرف">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="67">
+    <verb_lemma>$ak~al_1</verb_lemma>
+    <aspect-values p-value="0.05220364" sign="no" more-frequent="Imp">
+      <value label="Perf" total="3">
+        <verb_form total="2" value="شكل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="شكلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="10">
+        <verb_form total="5" value="تشكل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="3" value="يشكل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يشكل">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يشكلون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="83">
+    <verb_lemma>balag-u_1</verb_lemma>
+    <aspect-values p-value="0.1655179" sign="no" more-frequent="Imp">
+      <value label="Perf" total="4">
+        <verb_form total="2" value="بلغ">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="بلغت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="بلغوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="9">
+        <verb_form total="5" value="تبلغ">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="4" value="يبلغ">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="144">
+    <verb_lemma>eamil-a_1</verb_lemma>
+    <aspect-values p-value="0.002281937" sign="yes" more-frequent="Imp">
+      <value label="Perf" total="1">
+        <verb_form total="1" value="عملت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="12">
+        <verb_form total="8" value="يعمل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="تعمل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يعملون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تعمل">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="4">
+    <verb_lemma>hadav-u_1</verb_lemma>
+    <aspect-values p-value="0.2482131" sign="no" more-frequent="Perf">
+      <value label="Perf" total="8">
+        <verb_form total="7" value="حدث">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="حدثت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="يحدث">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يحدث">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تحدثان">Gender=Fem|Mood=Ind|Number=Dual|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يحدث">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="7">
+    <verb_lemma>samah-a_1</verb_lemma>
+    <aspect-values p-value="0.5637029" sign="no" more-frequent="Perf">
+      <value label="Perf" total="7">
+        <verb_form total="3" value="سمح">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="3" value="سمحت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="سمح">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="يسمح">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="نسمح">Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تسمح">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يسمح">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="68">
+    <verb_lemma>&gt;azohar_1</verb_lemma>
+    <aspect-values p-value="0.5637029" sign="no" more-frequent="Imp">
+      <value label="Perf" total="5">
+        <verb_form total="3" value="أظهر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="أظهرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="3" value="يظهر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="تظهر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تظهر">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تظهر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="99">
+    <verb_lemma>dam~-u_1</verb_lemma>
+    <aspect-values p-value="0.2482131" sign="no" more-frequent="Imp">
+      <value label="Perf" total="4">
+        <verb_form total="2" value="ضمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="ضم">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="8">
+        <verb_form total="7" value="تضم">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يضم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="147">
+    <verb_lemma>&gt;ad~ay_1</verb_lemma>
+    <aspect-values p-value="0.5637029" sign="no" more-frequent="Perf">
+      <value label="Perf" total="7">
+        <verb_form total="7" value="أدى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="يؤدي">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="تؤدي">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تؤدي">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يؤدي">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="13">
+    <verb_lemma>{isotaxodam_1</verb_lemma>
+    <aspect-values p-value="0.7630246" sign="no" more-frequent="Perf">
+      <value label="Perf" total="6">
+        <verb_form total="2" value="استخدم">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="استخدم">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="2" value="استخدمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="4" value="تستخدم">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="تستخدم">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="59">
+    <verb_lemma>qar~ar_1</verb_lemma>
+    <aspect-values p-value="0.006655605" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="10">
+        <verb_form total="6" value="قرر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="قرروا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="قررتا">Gender=Masc|Number=Dual|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="قررت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يقرروا">Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="106">
+    <verb_lemma>wasal-i_1</verb_lemma>
+    <aspect-values p-value="0.3657123" sign="no" more-frequent="Perf">
+      <value label="Perf" total="7">
+        <verb_form total="4" value="وصلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="وصل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="وصلوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="يصل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تصل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يصل">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="161">
+    <verb_lemma>ea$_1</verb_lemma>
+    <aspect-values p-value="0.3657123" sign="no" more-frequent="Imp">
+      <value label="Perf" total="4">
+        <verb_form total="3" value="عاش">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="عاشوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="2" value="يعيش">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="يعيش">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يعيشون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تعيش">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تعيش">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="6">
+    <verb_lemma>&gt;aeolan_1</verb_lemma>
+    <aspect-values p-value="0.01141204" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="9">
+        <verb_form total="5" value="أعلنت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="أعلن">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="أعلن">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يعلن">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="22">
+    <verb_lemma>ra&gt;ay-a_1</verb_lemma>
+    <aspect-values p-value="0.2059032" sign="no" more-frequent="Imp">
+      <value label="Perf" total="3">
+        <verb_form total="2" value="رأى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="رأيت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="2" value="يرى">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="نرى">Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="ير">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="يرى">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="ترى">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="نرى">Mood=Ind|Number=Plur|Person=1|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="28">
+    <verb_lemma>{irotafae_1</verb_lemma>
+    <aspect-values p-value="0.5270893" sign="no" more-frequent="Imp">
+      <value label="Perf" total="4">
+        <verb_form total="4" value="ارتفعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="6">
+        <verb_form total="4" value="ترتفع">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="ترتفع">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يرتفع">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="64">
+    <verb_lemma>{isotamar~_1</verb_lemma>
+    <aspect-values p-value="0.5270893" sign="no" more-frequent="Perf">
+      <value label="Perf" total="6">
+        <verb_form total="5" value="استمر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="استمرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="تستمر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تستمر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="يستمر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="30">
+    <verb_lemma>bada-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="بدا">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="6">
+        <verb_form total="6" value="يبدو">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="49">
+    <verb_lemma>hamal-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="حمل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="8">
+        <verb_form total="4" value="يحملون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="3" value="يحمل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يحملان">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="51">
+    <verb_lemma>waqae-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="وقع">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="وقعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="4" value="يقع">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="3" value="تقع">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="87">
+    <verb_lemma>$arak_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="5" value="شارك">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="شاركوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="شاركا">Gender=Masc|Number=Dual|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تشارك">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يشاركو">Gender=Masc|Mood=Jus|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="157">
+    <verb_lemma>{inotahay_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="انتهت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="انتهى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="انتهيا">Gender=Masc|Number=Dual|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="ينتهي">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="ينتهي">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تنتهي">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2">
+    <verb_lemma>na$ar-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="7">
+        <verb_form total="3" value="نشرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="نشرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="نشر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="نشر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تنشر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="18">
+    <verb_lemma>hasal-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="3" value="حصل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="حصلوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="حصلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يحصلون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تحصل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="65">
+    <verb_lemma>&gt;avar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="أثار">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أثاروا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="يثير">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="يثير">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يثر">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="يثير">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="101">
+    <verb_lemma>qam-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="قام">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="قامت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="نقوم">Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تقوم">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يقوم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="121">
+    <verb_lemma>mav~al_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="مثلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="7">
+        <verb_form total="4" value="تمثل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="يمثل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يمثلون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="162">
+    <verb_lemma>&gt;ano$a&gt;_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="أنشئ">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="2" value="أنشئت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="ينشأ">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="ينشأ">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="تنشأ">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="181">
+    <verb_lemma>qaday-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="2" value="قضى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="قضت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="قضيت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="يقضي">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يقضي">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="15">
+    <verb_lemma>&gt;aqam_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="أقيمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="أقيم">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="أقام">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="يقام">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="نقيم">Mood=Ind|Number=Plur|Person=1|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="يقام">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="21">
+    <verb_lemma>wajah_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="واجهت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="يواجه">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="نواجه">Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تواجه">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يواجه">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="31">
+    <verb_lemma>tarak-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="ترك">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تركت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="تركت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="يترك">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="تترك">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تترك">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="38">
+    <verb_lemma>hawal_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="حاول">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="حاولت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="تحاول">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تحاول">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يحاول">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="يحاولان">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="47">
+    <verb_lemma>&gt;atolaq_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="3" value="أطلق">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="أطلقت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أطلق">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تطلق">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يطلق">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="54">
+    <verb_lemma>&gt;a$ar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="أشار">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="يشيرون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تشير">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يشار">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="يشير">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="62">
+    <verb_lemma>wajad-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="وجدت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="وجد">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="يجد">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يوجد">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="أجد">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="153">
+    <verb_lemma>laeib-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="لعب">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="لعبت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="يلعب">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="ألعب">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يلعبون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="209">
+    <verb_lemma>{ilotaqay_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="6">
+        <verb_form total="6" value="التقى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="نلتقي">Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="281">
+    <verb_lemma>&gt;atah_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="أتاحت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أتاح">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أطاحت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="يتيح">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تتيح">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1">
+    <verb_lemma>katab-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="3" value="كتب">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="كتبت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="كتب">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يكتب">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="66">
+    <verb_lemma>earad-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="5">
+        <verb_form total="2" value="عرض">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="عرضت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="عرضت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="عرض">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تعرض">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="98">
+    <verb_lemma>wasaf-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="وصف">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="وصفت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يصفان">Gender=Masc|Mood=Ind|Number=Dual|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="توصف">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="109">
+    <verb_lemma>&gt;adaf_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="أضاف">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أضافت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تضيف">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يضيفون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="120">
+    <verb_lemma>xaraj-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="خرج">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="يخرج">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يخرج">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تخرج">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="يخرجون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="183">
+    <verb_lemma>rafad-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="رفض">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="رفضت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="يرفض">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="196">
+    <verb_lemma>haway-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="حوى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="يحوي">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="تحوي">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تحوي">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="205">
+    <verb_lemma>tahad~av_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="تحدثت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="يتحدث">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="أتحدث">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تتحدث">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="يتحدث">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="211">
+    <verb_lemma>tadam~an_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="تضمنت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="5" value="تتضمن">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="212">
+    <verb_lemma>&gt;arad_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="أردت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أرادوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="تريد">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يريدون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يريد">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="234">
+    <verb_lemma>bahav-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="بحثت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="بحثت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="أبحث">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تبحث">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يبحث">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="249">
+    <verb_lemma>mar~-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="مررنا">Number=Plur|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="3" value="يمر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يمر">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تمر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="330">
+    <verb_lemma>{ieotamad_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="اعتمدوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="5">
+        <verb_form total="3" value="تعتمد">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يعتمدون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يعتمد">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="368">
+    <verb_lemma>jaray-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="جرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="جرى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تجري">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يجر">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="417">
+    <verb_lemma>qad~am_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="قدمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="قدم">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="يقدم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="443">
+    <verb_lemma>&gt;aead_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="أعيد">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="أعيدت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تعاد">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="يعيد">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="69">
+    <verb_lemma>$arah-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="شرح">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="تشرح">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يشرح">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="72">
+    <verb_lemma>ka$af-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="كشف">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="تكشف">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="أكشف">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يكشف">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="78">
+    <verb_lemma>&gt;ajoray_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="أجريت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يجري">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تجري">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="79">
+    <verb_lemma>wadae_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="وضع">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="وضعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="وضع">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يضع">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="85">
+    <verb_lemma>jamae-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="جمعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="جمعوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="جمع">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تجمع">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="113">
+    <verb_lemma>tamak~an_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="تمكن">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تمكنت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يتمكنوا">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="نتمكن">Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="117">
+    <verb_lemma>zal~-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="ظلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="2" value="ظل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يظل">Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="132">
+    <verb_lemma>jaeal-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="جعل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="يجعل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تجعل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="133">
+    <verb_lemma>{ihotaj_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="احتاج">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="نحتاج">Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="يحتاج">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="159">
+    <verb_lemma>walad-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="ولدت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="ولد">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يولد">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="تولد">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="184">
+    <verb_lemma>naqal-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="نقل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="نقلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="ينقل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="199">
+    <verb_lemma>{inotalaq_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="2" value="انطلق">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="انطلقنا">Number=Plur|Person=1|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="انطلقت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ننطلق">Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="200">
+    <verb_lemma>waqaf-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="وقفوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="1" value="تقف">Gender=Masc|Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تقف">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يقف">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يقفون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="243">
+    <verb_lemma>layosa_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="4">
+        <verb_form total="3" value="ليس">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="ليست">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ليس">Gender=Masc|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="272">
+    <verb_lemma>{it~axa*_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="اتخذ">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="اتخذت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="يتخذ">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="287">
+    <verb_lemma>mat-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="مات">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="يموت">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="2" value="يموت">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="11">
+    <verb_lemma>faeal-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="فعلوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="فعل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تفعل">Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تفعل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="24">
+    <verb_lemma>qad~ar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="قدرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="تقدر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="يقدر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="يقدرون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="34">
+    <verb_lemma>$aear-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="شعر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="أشعر">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="نشعر">Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يشعر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="39">
+    <verb_lemma>daxal-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="دخل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="أدخل">Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="تدخل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="97">
+    <verb_lemma>&gt;asodar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="أصدر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أصدرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تصدر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="102">
+    <verb_lemma>zar-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="زار">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="أزور">Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يزورون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="103">
+    <verb_lemma>saj~al_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="سجل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="سجل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تسجل">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="يسجل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="114">
+    <verb_lemma>taear~ad_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="تعرض">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تعرضت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تتعرض">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="127">
+    <verb_lemma>zad-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="زادت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="يزيد">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تزيد">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="130">
+    <verb_lemma>saeay-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="سعى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تسعى">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يسعى">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="140">
+    <verb_lemma>sadar-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="صدرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="صدر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تصدر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="146">
+    <verb_lemma>qad-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="قاد">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="يقود">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="174">
+    <verb_lemma>manae_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="منع">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="يمنع">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يمنع">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تمنع">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="236">
+    <verb_lemma>sanae-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="صنعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="أصنع">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تصنع">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يصنع">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="253">
+    <verb_lemma>qasam-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="قسمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="قسمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يقسموا">Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يقسم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="260">
+    <verb_lemma>kal~af_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="كلف">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يكلف">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="262">
+    <verb_lemma>baqiy-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="بقي">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="بقيت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يبق">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="تبقى">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="266">
+    <verb_lemma>tagay~ar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="تغيرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تتغير">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="تتغير">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="269">
+    <verb_lemma>saham_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ساهمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="تساهم">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تساهم">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="يساهم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="278">
+    <verb_lemma>&gt;aboraz_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="أبرزت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="3" value="تبرز">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="324">
+    <verb_lemma>laqiy-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="لقيت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="لقي">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="تلق">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="331">
+    <verb_lemma>sayotar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="سيطر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تسيطر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="333">
+    <verb_lemma>sal~am_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="سلم">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="سلمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يسلم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يسلم">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="340">
+    <verb_lemma>had~ad_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="حددت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="يحدد">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تحدد">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="359">
+    <verb_lemma>{ihotal~_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="احتلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="احتل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تحتل">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="35">
+    <verb_lemma>waj~ah_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="وجهت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يوجه">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="يوجهوا">Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="37">
+    <verb_lemma>qatal-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="قتلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="قتل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يقتل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="50">
+    <verb_lemma>zan~-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="ظنت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="ظننت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="أظن">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="58">
+    <verb_lemma>&gt;av~ar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="أثر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يؤثر">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تؤثر">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="80">
+    <verb_lemma>darab_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="ضربت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تضرب">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="86">
+    <verb_lemma>&gt;arosal_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="أرسلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="أرسل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يرسل">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="108">
+    <verb_lemma>daras-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="يدرس">Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="يدرس">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="112">
+    <verb_lemma>&gt;asab_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="أصابت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أصاب">Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تصيب">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="149">
+    <verb_lemma>dafae-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="دفع">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="دفعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يدفع">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="173">
+    <verb_lemma>ha*~ar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="حذرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="حذر">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يحذر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="177">
+    <verb_lemma>&gt;aeorab_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="أعربت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أعرب">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تعرب">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="192">
+    <verb_lemma>&gt;al~af_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="ألف">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تؤلف">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="203">
+    <verb_lemma>xaf~af_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="خفف">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يخفف">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+        <verb_form total="1" value="يخفف">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="206">
+    <verb_lemma>&gt;adorak_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="أدركت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="أدرك">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="أدرك">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="244">
+    <verb_lemma>najah-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="نجح">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="ينجح">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="ينجحون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="267">
+    <verb_lemma>tawaq~ae_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="توقعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يتوقع">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="تتوقع">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="288">
+    <verb_lemma>{ifotarad_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="افترضنا">Number=Plur|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="يفترض">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+        <verb_form total="1" value="يفترض">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="351">
+    <verb_lemma>ta$ak~al_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="تشكلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يتشكل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="381">
+    <verb_lemma>&gt;axa*-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="أخذت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="تأخذ">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+        <verb_form total="1" value="يأخذ">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="391">
+    <verb_lemma>wafaq_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="وافقت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="وافق">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يوافق">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="396">
+    <verb_lemma>{ikotasab_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="اكتسب">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+        <verb_form total="1" value="اكتسبت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يكتسب">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="470">
+    <verb_lemma>hal~-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="حلت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+        <verb_form total="1" value="حل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يحل">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="489">
+    <verb_lemma>xasir-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="2">
+        <verb_form total="2" value="خسرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تخسر">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="43">
+    <verb_lemma>tabie-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="تبعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يتبع">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="90">
+    <verb_lemma>tab~aq_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="طبقت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="نطبق">Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="126">
+    <verb_lemma>farad-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="فرضت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يفرض">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="142">
+    <verb_lemma>ta$arak_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="تشاركت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يتشاركون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="169">
+    <verb_lemma>&gt;aloqay_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ألقى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يلقى">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="178">
+    <verb_lemma>$agal-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="شغل">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يشغل">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="179">
+    <verb_lemma>&gt;ahodav_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="أحدث">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تحدث">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="182">
+    <verb_lemma>qara&gt;-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="قرأ">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="أقرأ">Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="191">
+    <verb_lemma>xad-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="خاض">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يخوض">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="197">
+    <verb_lemma>saeid-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="صعد">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تسعد">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="214">
+    <verb_lemma>tawaj~ah_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="توجه">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يتوجهون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="217">
+    <verb_lemma>fatah-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="فتحت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يفتحا">Gender=Masc|Mood=Sub|Number=Dual|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="242">
+    <verb_lemma>eab~ar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="عبرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يعبر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="247">
+    <verb_lemma>gat~ay_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="غطت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تغطي">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="264">
+    <verb_lemma>tawas~ae_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="توسعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يتوسعوا">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="270">
+    <verb_lemma>eaz~az_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="عزز">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يعزز">Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="289">
+    <verb_lemma>&gt;alif-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ألفت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يألف">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="303">
+    <verb_lemma>*ahab-a_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ذهبوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تذهب">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="306">
+    <verb_lemma>bae-i_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="باعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يبيع">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="309">
+    <verb_lemma>$ahad_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="شاهدت">Number=Sing|Person=1|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يشاهدون">Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="313">
+    <verb_lemma>han~a&gt;_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="هنأ">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="أهنئ">Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="364">
+    <verb_lemma>{inodam~_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="انضمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تنضم">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="371">
+    <verb_lemma>sab~ab_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="سبب">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يسبب">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="378">
+    <verb_lemma>$aj~ae_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="شجعت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تشجع">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="385">
+    <verb_lemma>gay~ar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="تغير">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تغير">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="389">
+    <verb_lemma>{id~aeay_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="ادعى">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تدعى">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="422">
+    <verb_lemma>rafaq_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="رافقت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ترافق">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="433">
+    <verb_lemma>{isotahodaf_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="استهدفوا">Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يستهدف">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="434">
+    <verb_lemma>rasam-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="رسمت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ترسم">Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="458">
+    <verb_lemma>{i$otahar_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="اشتهرت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يشتهر">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="475">
+    <verb_lemma>&gt;anotaj_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="أنتج">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ينتج">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="493">
+    <verb_lemma>naja-u_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="نجت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ينجو">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="501">
+    <verb_lemma>talab_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="طالب">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تطالب">Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="504">
+    <verb_lemma>{isotaboead_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="استبعدت">Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يستبعد">Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="506">
+    <verb_lemma>taeawan_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="تعاون">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="يتعاون">Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="526">
+    <verb_lemma>&gt;adoraj_1</verb_lemma>
+    <aspect-values>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="أدرج">Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</verb_form>
+      </value>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="تدرج">Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Pass</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>

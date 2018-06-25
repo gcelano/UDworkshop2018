@@ -1,0 +1,213 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Ukrainian" xquery="03_p-values.xq">
+  <case n="590">
+    <verb_lemma>викликати</verb_lemma>
+    <aspect-values p-value="0.06056886" sign="no" more-frequent="Imp">
+      <value label="Imp" total="16">
+        <verb_form total="6" value="викликає">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="5" value="викликають">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="2" value="викликати">VerbForm=Inf</verb_form>
+        <verb_form total="1" value="викликав">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="викликаємо">Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="викликали">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="7">
+        <verb_form total="2" value="викликати">VerbForm=Inf</verb_form>
+        <verb_form total="2" value="викликало">Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="викликала">Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="викликали">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="викличемо">Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2228">
+    <verb_lemma>реалізувати</verb_lemma>
+    <aspect-values p-value="0.05220364" sign="no" more-frequent="Imp">
+      <value label="Imp" total="10">
+        <verb_form total="9" value="реалізує">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="реалізуючи">Tense=Pres|VerbForm=Conv</verb_form>
+      </value>
+      <value label="Perf" total="3">
+        <verb_form total="3" value="реалізувати">VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1390">
+    <verb_lemma>сходити</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="5">
+        <verb_form total="2" value="сходи">Mood=Imp|Number=Sing|Person=2|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="сходили">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="сходячи">Tense=Pres|VerbForm=Conv</verb_form>
+        <verb_form total="1" value="схо́дили">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="сходив">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="579">
+    <verb_lemma>дарувати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="4">
+        <verb_form total="2" value="дарують">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="даруючи">Tense=Pres|VerbForm=Conv</verb_form>
+        <verb_form total="1" value="дарували">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="даруйте">Mood=Imp|Number=Plur|Person=2|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1559">
+    <verb_lemma>надавати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="надавали">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="надавала">Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="надають">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="надавав">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2291">
+    <verb_lemma>презентувати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="3">
+        <verb_form total="1" value="презентувати">VerbForm=Inf</verb_form>
+        <verb_form total="1" value="презентував">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="презентували">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="презентували">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2606">
+    <verb_lemma>ліквідувати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="ліквідувати">VerbForm=Inf</verb_form>
+      </value>
+      <value label="Perf" total="3">
+        <verb_form total="2" value="ліквідували">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="ліквідувати">VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="2737">
+    <verb_lemma>декорувати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="3">
+        <verb_form total="2" value="декорувати">VerbForm=Inf</verb_form>
+        <verb_form total="1" value="декоруючи">Tense=Pres|VerbForm=Conv</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="декорувала">Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1207">
+    <verb_lemma>злитися</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="злиться">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="2">
+        <verb_form total="1" value="злившись">Tense=Past|VerbForm=Conv</verb_form>
+        <verb_form total="1" value="злилось">Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1222">
+    <verb_lemma>преміювати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="преміює">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+        <verb_form total="1" value="преміювала">Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="преміювала">Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1455">
+    <verb_lemma>вирізати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="1" value="вирізати">VerbForm=Inf</verb_form>
+        <verb_form total="1" value="вирізали">Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="вирізав">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1962">
+    <verb_lemma>анулювати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="2">
+        <verb_form total="2" value="анулюють">Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="анулювало">Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="423">
+    <verb_lemma>перерізати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="перерізав">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="переріжеш">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="530">
+    <verb_lemma>мовити</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="мовити">VerbForm=Inf</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="мовити">VerbForm=Inf</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="672">
+    <verb_lemma>здужати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="здужав">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="здужаєш">Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1105">
+    <verb_lemma>систематизувати</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="систематизуючи">Tense=Pres|VerbForm=Conv</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="систематизовано">Mood=Ind|Person=0|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+  <case n="1561">
+    <verb_lemma>походити</verb_lemma>
+    <aspect-values>
+      <value label="Imp" total="1">
+        <verb_form total="1" value="походить">Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</verb_form>
+      </value>
+      <value label="Perf" total="1">
+        <verb_form total="1" value="походив">Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</verb_form>
+      </value>
+    </aspect-values>
+  </case>
+</text>
